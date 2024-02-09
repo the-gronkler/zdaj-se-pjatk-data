@@ -85,6 +85,84 @@
           "isMarkdown": false
         }
       ]
+    },
+    {
+      "question": "Wyrażenie w języku Ruby&nbsp;<strong>:xyz.class</strong> zwróci:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "klasę Method",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "klasę Symbol",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "błąd - literały w języku Ruby nie implementują metod",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "błąd - wyrażenie rozpoczęte dwukropkiem niezgodne ze składnią języka",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Język XSLT:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "Zaimplementowano wyłącznie po stronie przeglądarki klienta",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Wspiera rekurencyjne wywoływanie wzorców",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Umożliwia przetwarzanie dowolnych dokumentów HTML",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Działa wyłącznie po stronie serwera",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Numery portów są przekazywane w ramach:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "protokołu aplikacyjnego",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "protokołu warstwy sprzętowej",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "protokołu transportowego",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "protokołu warstwy sieciowej",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
     }
   ]
 }
