@@ -1,5 +1,5 @@
 {
-  "$schema": "../schemas/subject-override.json",
+  "$schema": "../schemas/subject-index-patch.json",
   "id": "matematyka_dyskretna_1_-_2020,_gakko_(mad1)",
   "updatedAt": 1644500612396,
   "data": [
@@ -21,7 +21,8 @@
           "correct": true
         }
       ],
-      "id": "z-00-4e4cb499-8ded-490d-8d0b-303878497d03"
+      "id": "z-00-4e4cb499-8ded-490d-8d0b-303878497d03",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Która z wymienionych relacji jest porządkiem częściowym?",
@@ -41,7 +42,8 @@
           "correct": false
         }
       ],
-      "id": "z-01-3603e5ad-1e3e-4e05-909c-c57b7012a2e2"
+      "id": "z-01-3603e5ad-1e3e-4e05-909c-c57b7012a2e2",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Niech d(n) będzie liczbą różnych dzielników pierwszych liczby naturalnej n. W zbiorze N \\ {0,1} określamy relację r wzorem: x r y wttw, gdy (d(x) < d (y)) lub (d(x) = d(y) i x≤y). Wskaz zdania prawdziwe.",
@@ -61,7 +63,8 @@
           "correct": false
         }
       ],
-      "id": "z-02-70846669-4105-402c-bbf9-9fe4c10e2565"
+      "id": "z-02-70846669-4105-402c-bbf9-9fe4c10e2565",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Zaznacz zdanie prawdziwe.",
@@ -81,7 +84,8 @@
           "correct": true
         }
       ],
-      "id": "z-03-91e9141b-1853-48ef-adec-e323abfce101"
+      "id": "z-03-91e9141b-1853-48ef-adec-e323abfce101",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Wskaz relacje, które są częściowym porządkiem.",
@@ -101,7 +105,8 @@
           "correct": false
         }
       ],
-      "id": "z-04-f7a51811-de94-4950-9c5f-f5e5f03181e0"
+      "id": "z-04-f7a51811-de94-4950-9c5f-f5e5f03181e0",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Wskaż zdania prawdziwe (elementy wyróżnione, int, sup)",
@@ -121,7 +126,8 @@
           "correct": true
         }
       ],
-      "id": "z-05-5246eecb-4b32-4bfa-acae-d766e57791c7"
+      "id": "z-05-5246eecb-4b32-4bfa-acae-d766e57791c7",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Niech A będzie pewnym alfabetem zawierającym więcej niz jeden element. Dla dowolnych słów w, w' należących do A* niech w r w' wttw, gdy długość(w) ≤ długość(w'). Zaznacz zdania prawdziwe.",
@@ -141,7 +147,8 @@
           "correct": true
         }
       ],
-      "id": "z-06-5f908808-869d-427b-a047-ebac5b47eab1"
+      "id": "z-06-5f908808-869d-427b-a047-ebac5b47eab1",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Niech d(n) będzie liczbą różnych dzielników pierwszych liczby naturalnej n. W zbiorze N \\ {0,1} określamy relację r wzorem: x r y wttw, gdy (d(x) < d(y)) lub (d(x)=d(y) i x≤y). Wskaz zdania prawdziwe.",
@@ -161,7 +168,8 @@
           "correct": true
         }
       ],
-      "id": "z-07-0b757600-f3e6-45e5-a0c5-f4b0685a0fd6"
+      "id": "z-07-0b757600-f3e6-45e5-a0c5-f4b0685a0fd6",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Niech r będzie relacją liniowego porządku w zbiorze X. Zaznacz te własności, które przysługują relacji r.",
@@ -181,7 +189,8 @@
           "correct": true
         }
       ],
-      "id": "z-08-af061990-8920-4ecd-9d6c-c4bc8672ca4e"
+      "id": "z-08-af061990-8920-4ecd-9d6c-c4bc8672ca4e",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "W zbiorze wierzchołków V pewnego drzewa G z wyróżnionym korzeniem P określono relację r następująco: x r y wttw w grafie G, każda droga prowadząca od P do y przechodzi przez x. Wskaz zdania prawdziwe.",
@@ -201,7 +210,8 @@
           "correct": true
         }
       ],
-      "id": "z-09-a32e704e-e573-4ed5-9db5-ce5303f164fd"
+      "id": "z-09-a32e704e-e573-4ed5-9db5-ce5303f164fd",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Niech r będzie relacją porządku określoną w zbiorze liczb naturalnych dodatnich następująco: x r y wttw x jest dzielnikiem y. Które z wymienionych zdań <strong><u>nie jest</u></strong> prawdziwe?",
@@ -221,7 +231,8 @@
           "correct": true
         }
       ],
-      "id": "z-10-8e24bfd3-a97d-42de-8e87-09a40090101e"
+      "id": "z-10-8e24bfd3-a97d-42de-8e87-09a40090101e",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Wskaż zdania <strong><u>fałszywe</u></strong>.",
@@ -241,7 +252,8 @@
           "correct": true
         }
       ],
-      "id": "z-11-1ddbaccc-19b9-4808-af88-8da568b0579f"
+      "id": "z-11-1ddbaccc-19b9-4808-af88-8da568b0579f",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Wskaż zdania prawdziwe (elementy wyróżnione, int, sup)",
@@ -261,7 +273,8 @@
           "correct": true
         }
       ],
-      "id": "z-12-6c520679-e2d6-43a5-a77c-b6296ab7d8c3"
+      "id": "z-12-6c520679-e2d6-43a5-a77c-b6296ab7d8c3",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Która z wymienionych relacji jest porządkiem częściowym?",
@@ -281,7 +294,8 @@
           "correct": true
         }
       ],
-      "id": "z-13-adfce4f4-a659-4494-99f8-28838b4777a4"
+      "id": "z-13-adfce4f4-a659-4494-99f8-28838b4777a4",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Niech d(n) będzie liczbą różnych dzielników pierwszych liczby naturalnej n. W zbiorze N \\ (0,1} określamy relację r wzorem: x r y wttw, gdy (d(x) < d(y)) lub (d(x)=d(y) i x≤y). Wskaż zdania prawdziwe.",
@@ -301,7 +315,8 @@
           "correct": false
         }
       ],
-      "id": "z-14-be68b90e-454e-4044-a326-c3ddf43d0ca2"
+      "id": "z-14-be68b90e-454e-4044-a326-c3ddf43d0ca2",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Wskaż zdania prawdziwe (elementy wyróżnione, inf, sup).",
@@ -321,7 +336,8 @@
         }
       ],
       "comments": [],
-      "id": "z-15-c2a09d70-ff32-4214-a576-a0981777376f"
+      "id": "z-15-c2a09d70-ff32-4214-a576-a0981777376f",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Niech r będzie relacją porządku określoną w zbiorze liczb naturalnych dodatnich następująco: x r y wttw x jest dzielnikiem y. Które z wymienionych zdań nie jest prawdziwe?",
@@ -341,7 +357,8 @@
         }
       ],
       "comments": [],
-      "id": "z-16-a2036db3-ab51-4da1-bade-1b60b1ee6d60"
+      "id": "z-16-a2036db3-ab51-4da1-bade-1b60b1ee6d60",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Rozważmy zbiór A = {{1}, {2}, {3}, {4}, {1, 3}, {1, 4}, {2, 4}, {3, 4}, {1, 2, 4}, {2, 3, 4}} uporządkowany przez relację zawierania. Wskaż zdania prawdziwe.",
@@ -361,7 +378,8 @@
         }
       ],
       "comments": [],
-      "id": "z-17-dfbadb26-4b6e-4168-982f-7dff393130b4"
+      "id": "z-17-dfbadb26-4b6e-4168-982f-7dff393130b4",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Zaznacz zdanie prawdziwe.",
@@ -381,7 +399,8 @@
         }
       ],
       "comments": [],
-      "id": "z-18-b4e716e4-df10-4b22-bbda-ab86a623182b"
+      "id": "z-18-b4e716e4-df10-4b22-bbda-ab86a623182b",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "W zbiorze wierzchołków V pewnego drzewa G z wyróżnionym korzeniem P określono relację r następująco: x r y wttw w grafie G, każda droga prowadząca od P do y przechodzi przez x. Wskaż zdania prawdziwe.",
@@ -401,7 +420,8 @@
         }
       ],
       "comments": [],
-      "id": "z-19-67d5488d-d288-4e43-a86b-f940e17fb63c"
+      "id": "z-19-67d5488d-d288-4e43-a86b-f940e17fb63c",
+      "$schema": "../../../schemas/subject-patch.json"
     }
   ]
 }

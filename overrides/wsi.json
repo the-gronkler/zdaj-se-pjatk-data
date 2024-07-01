@@ -1,5 +1,5 @@
 {
-  "$schema": "../schemas/subject-override.json",
+  "$schema": "../schemas/subject-index-patch.json",
   "title": "Wstęp do systemów informacyjnych",
   "id": "wsi",
   "updatedAt": 1675678458235,
@@ -27,7 +27,8 @@
           "correct": false
         }
       ],
-      "comments": []
+      "comments": [],
+      "$schema": "../../../schemas/subject-patch.json"
     }
   ]
 }

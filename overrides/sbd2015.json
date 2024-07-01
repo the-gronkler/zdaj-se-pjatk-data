@@ -1,5 +1,5 @@
 {
-  "$schema": "../schemas/subject-override.json",
+  "$schema": "../schemas/subject-index-patch.json",
   "id": "sbd2015",
   "updatedAt": 1707679176310,
   "data": [
@@ -24,7 +24,8 @@
           "correct": true,
           "isMarkdown": false
         }
-      ]
+      ],
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Dane są trzy tabele `Klienci(Id_Klienta, Imie, Nazwisko)`, `Produkty(Id_Produktu, Nazwa, Cena)` oraz `Zakupy(Id_Klienta, Id_Produktu, Ilość)`. Wskazać poprawne zapytanie SQL",
@@ -51,7 +52,8 @@
           "isMarkdown": true
         }
       ],
-      "id": "z-00-214707d7-0b58-4d1f-8db7-5b39a4bce2a7"
+      "id": "z-00-214707d7-0b58-4d1f-8db7-5b39a4bce2a7",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "W funkcji (FUNCTION) PL/SQL:",
@@ -78,7 +80,8 @@
           "isMarkdown": false
         }
       ],
-      "id": "z-01-3331af90-9fb6-4919-b5dc-c5a08d4d9083"
+      "id": "z-01-3331af90-9fb6-4919-b5dc-c5a08d4d9083",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Zintegrowanie w definicji hurtowni danych oznacza, że:",
@@ -105,7 +108,8 @@
           "isMarkdown": false
         }
       ],
-      "id": "z-02-79881ee2-64ce-4e22-a590-39752c39970f"
+      "id": "z-02-79881ee2-64ce-4e22-a590-39752c39970f",
+      "$schema": "../../../schemas/subject-patch.json"
     }
   ]
 }

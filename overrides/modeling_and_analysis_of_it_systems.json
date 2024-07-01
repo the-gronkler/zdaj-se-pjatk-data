@@ -1,5 +1,5 @@
 {
-  "$schema": "../schemas/subject-override.json",
+  "$schema": "../schemas/subject-index-patch.json",
   "id": "modeling_and_analysis_of_it_systems",
   "updatedAt": 1691363367006,
   "data": [
@@ -26,7 +26,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-00-b07f1f5e-7d98-4472-a027-706f88d27351"
+      "id": "z-00-b07f1f5e-7d98-4472-a027-706f88d27351",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Class instance is an object.",
@@ -51,7 +52,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-01-a38e02e2-8223-4d10-9938-0912548c6405"
+      "id": "z-01-a38e02e2-8223-4d10-9938-0912548c6405",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Classes in Java are presented directly.",
@@ -76,7 +78,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-02-a54e42d2-cdc1-432f-9200-acbd135ff49c"
+      "id": "z-02-a54e42d2-cdc1-432f-9200-acbd135ff49c",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Class extent and object mean the same thing.",
@@ -101,7 +104,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-03-3e07c723-7034-40e5-b9b6-9a1551687be0"
+      "id": "z-03-3e07c723-7034-40e5-b9b6-9a1551687be0",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Class instance is an object.",
@@ -126,7 +130,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-04-aa13f785-b3f0-4fb3-b955-f4dbe070bd03"
+      "id": "z-04-aa13f785-b3f0-4fb3-b955-f4dbe070bd03",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Extent of a class may change over time.",
@@ -151,7 +156,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-05-5a76ff7f-79d7-4ec7-96bf-a9fe44577a37"
+      "id": "z-05-5a76ff7f-79d7-4ec7-96bf-a9fe44577a37",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "When implementing class extent within the same business class, the collection must be declared as static.",
@@ -176,7 +182,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-06-4d068810-eb74-44fa-bc02-cdb9ce493c64"
+      "id": "z-06-4d068810-eb74-44fa-bc02-cdb9ce493c64",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "An example of a simple attribute is Address.",
@@ -201,7 +208,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-07-7be6f7f7-e297-47cf-9658-f7fad30ed54d"
+      "id": "z-07-7be6f7f7-e297-47cf-9658-f7fad30ed54d",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "In Java, simple attributes are implemented with the simple keyword.",
@@ -226,7 +234,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-08-ca849020-ce7d-4783-b026-84f121cca3ba"
+      "id": "z-08-ca849020-ce7d-4783-b026-84f121cca3ba",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "An example of a complex attribute is a double last name.",
@@ -251,7 +260,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-09-4eb2d864-0a17-4144-8eff-8b436ed563fb"
+      "id": "z-09-4eb2d864-0a17-4144-8eff-8b436ed563fb",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "A compound attribute can be implemented as a class object.",
@@ -276,7 +286,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-10-4ad820be-b19d-4bb2-8a23-8fd691076d95"
+      "id": "z-10-4ad820be-b19d-4bb2-8a23-8fd691076d95",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The database view allows us to define, for example, the age of a person calculated on the basis of the date of birth.",
@@ -301,7 +312,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-100-e11315ee-84a5-4280-9ba9-02ab36325fe4"
+      "id": "z-100-e11315ee-84a5-4280-9ba9-02ab36325fe4",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Every database makes it easy to define methods in tables.",
@@ -326,7 +338,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-101-0dad71aa-6686-4139-bab6-869e5aca75fb"
+      "id": "z-101-0dad71aa-6686-4139-bab6-869e5aca75fb",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Each database makes it easy to define class methods in tables.",
@@ -351,7 +364,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-102-426a16da-46b1-4fdb-8e46-a468b3a89402"
+      "id": "z-102-426a16da-46b1-4fdb-8e46-a468b3a89402",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Associations of 1:1 cardinality can be realized with a foreign key.",
@@ -376,7 +390,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-103-41e8bbf1-a1b0-4373-8c9a-83503a7e938b"
+      "id": "z-103-41e8bbf1-a1b0-4373-8c9a-83503a7e938b",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Association 1:* can be realized with a foreign key.",
@@ -401,7 +416,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-104-7ebeb2d8-c609-4bba-a7a4-b7ba87396279"
+      "id": "z-104-7ebeb2d8-c609-4bba-a7a4-b7ba87396279",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Associations *:* can be accomplished using an intermediary table.",
@@ -426,7 +442,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-105-e63a8ead-5efc-487e-b742-6ee519a3c349"
+      "id": "z-105-e63a8ead-5efc-487e-b742-6ee519a3c349",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "You can add two primary keys and 4 foreign keys to avoid entering the intermediate table.",
@@ -451,7 +468,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-106-c8c80fe8-50e3-4601-aa06-74f60041a61c"
+      "id": "z-106-c8c80fe8-50e3-4601-aa06-74f60041a61c",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Introducing an intermediary table facilitates understanding of business rules.",
@@ -476,7 +494,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-107-158d3c1a-25b1-44a0-8e9a-54f005850cef"
+      "id": "z-107-158d3c1a-25b1-44a0-8e9a-54f005850cef",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "A design that is close to a qualified association can be implemented by selecting the correct primary and the foreign keys.",
@@ -501,7 +520,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-108-2368b0f3-2183-4477-9f9e-87af37b755ec"
+      "id": "z-108-2368b0f3-2183-4477-9f9e-87af37b755ec",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The primary purpose of using a qualified association is to speed up the search for connected objects.",
@@ -526,7 +546,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-109-260961b8-925c-4191-b1e2-f3b7f0781e9d"
+      "id": "z-109-260961b8-925c-4191-b1e2-f3b7f0781e9d",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The repetitive attribute can be implemented using ArrayList.",
@@ -551,7 +572,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-11-3153852d-0446-4e35-929d-d813f32a2a27"
+      "id": "z-11-3153852d-0446-4e35-929d-d813f32a2a27",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementation of aggregation and composition in RM is based on similar assumptions as for Java.",
@@ -576,7 +598,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-110-a087f6b9-7fa6-4543-84e2-e58f4e46baa2"
+      "id": "z-110-a087f6b9-7fa6-4543-84e2-e58f4e46baa2",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "It is worthwhile to use built-in DB mechanisms such as triggers.",
@@ -601,7 +624,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-111-d7ea1148-5f05-4543-80f4-e6cfe8a81438"
+      "id": "z-111-d7ea1148-5f05-4543-80f4-e6cfe8a81438",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "In the classical relational model there are all kinds of inheritance except overlapping.",
@@ -626,7 +650,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-112-0cb48110-51cb-4191-8e82-7af98e3ff735"
+      "id": "z-112-0cb48110-51cb-4191-8e82-7af98e3ff735",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "One way to implement inheritance in RM is to flatten the hierarchy.",
@@ -651,7 +676,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-113-bf45b027-097f-4429-a815-e9eca3862d16"
+      "id": "z-113-bf45b027-097f-4429-a815-e9eca3862d16",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "API libraries were designed exclusively for working with DB.",
@@ -676,7 +702,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-114-3ad4bae7-d52a-4394-a80c-34cf66c304e2"
+      "id": "z-114-3ad4bae7-d52a-4394-a80c-34cf66c304e2",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "JDBC technology makes it easy to write portable (between different BDs) applications.",
@@ -701,7 +728,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-115-2ccdc067-2c54-4bed-a242-6c8d754a3dc4"
+      "id": "z-115-2ccdc067-2c54-4bed-a242-6c8d754a3dc4",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The main reason for using ORM tools is to improve the performance of BD access.",
@@ -726,7 +754,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-116-7e263209-7662-45d0-82eb-739b5f8807de"
+      "id": "z-116-7e263209-7662-45d0-82eb-739b5f8807de",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "ORMs, to some extent, suppress the impedance mismatch.",
@@ -751,7 +780,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-117-9eaf3990-0843-4c81-9d21-b39609207837"
+      "id": "z-117-9eaf3990-0843-4c81-9d21-b39609207837",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The biggest advantage of LINQ is the efficiency of accessing databases.",
@@ -776,7 +806,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-118-3740e074-4fee-49aa-ace4-31bcdf28ec08"
+      "id": "z-118-3740e074-4fee-49aa-ace4-31bcdf28ec08",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "One version of LINQ allows you to work with native .NET collections.",
@@ -801,7 +832,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-119-3b2578ad-471b-4362-969a-ce9846575b94"
+      "id": "z-119-3b2578ad-471b-4362-969a-ce9846575b94",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Always use Java arrays to implement repetitive attributes.",
@@ -826,7 +858,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-12-c8a4656a-266d-4b0d-9d8a-de31ac1f0c2b"
+      "id": "z-12-c8a4656a-266d-4b0d-9d8a-de31ac1f0c2b",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The @OneToMany annotation is used to map the association.",
@@ -851,7 +884,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-120-6c31f6aa-dd02-489e-bff7-36dcdc86e50b"
+      "id": "z-120-6c31f6aa-dd02-489e-bff7-36dcdc86e50b",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "When working with Hibernate, you need to create and update the DB schema manually.",
@@ -876,7 +910,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-121-cf1c2abf-4d33-4b59-acec-4015d379d952"
+      "id": "z-121-cf1c2abf-4d33-4b59-acec-4015d379d952",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Transforming a directed association into a bidirectional one requires, among other things, adding dedicated constructs on the Java side.",
@@ -901,7 +936,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-122-d0cecb5f-3602-4f8c-971d-feb632ab9a99"
+      "id": "z-122-d0cecb5f-3602-4f8c-971d-feb632ab9a99",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The data schema for the directed and bidirectional association is identical.",
@@ -926,7 +962,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-123-ea809f30-25ba-4ede-a448-ab6fd9630c87"
+      "id": "z-123-ea809f30-25ba-4ede-a448-ab6fd9630c87",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementing multi-valued attributes with Hibernate is no different than the implementation of the association.",
@@ -951,7 +988,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-124-41cbd64b-bc3a-4194-b4f7-a3b6447bb70f"
+      "id": "z-124-41cbd64b-bc3a-4194-b4f7-a3b6447bb70f",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The @ElementCollection annotation is used for the implementation of multi-valued attributes.",
@@ -976,7 +1014,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-125-e4d2de2f-86b8-4dfb-acca-f9d8326676c8"
+      "id": "z-125-e4d2de2f-86b8-4dfb-acca-f9d8326676c8",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The most important in the application is functionality, and the interface is a minor add-on.",
@@ -1001,7 +1040,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-126-9275f1b9-44c8-478a-852e-aeaf367dc4c5"
+      "id": "z-126-9275f1b9-44c8-478a-852e-aeaf367dc4c5",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "It is very easy to measure the quality of the interface.",
@@ -1026,7 +1066,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-127-03fddaa2-c437-4e53-8327-419e4f837238"
+      "id": "z-127-03fddaa2-c437-4e53-8327-419e4f837238",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Usability of interfaces is an interdisciplinary issue.",
@@ -1051,7 +1092,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-128-fb028aeb-b7bd-48c6-b289-a1e3b54c2837"
+      "id": "z-128-fb028aeb-b7bd-48c6-b289-a1e3b54c2837",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "One of the most important aspects of usability is the practical usefulness of the thing/service.",
@@ -1076,7 +1118,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-129-b020ee08-5b33-41eb-adef-bd3c9660ad98"
+      "id": "z-129-b020ee08-5b33-41eb-adef-bd3c9660ad98",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The ArrayList collection may not have any elements, so it is suitable for implementing the optional attribute double.",
@@ -1101,7 +1144,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-13-6d7430c2-735c-422d-83ab-02e3dfc3a99e"
+      "id": "z-13-6d7430c2-735c-422d-83ab-02e3dfc3a99e",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "One of the basic elements facilitating shaping usability is frequent contacts with users.",
@@ -1126,7 +1170,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-130-53bf731f-f72b-466a-8661-20ec61e9de88"
+      "id": "z-130-53bf731f-f72b-466a-8661-20ec61e9de88",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Usability can be shaped in complete isolation from the users.",
@@ -1151,7 +1196,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-131-3f2664e8-0b37-4030-b9f2-c8e678e961c8"
+      "id": "z-131-3f2664e8-0b37-4030-b9f2-c8e678e961c8",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "You do not have to watch your users during the usability tests - just listen to their comments.",
@@ -1176,7 +1222,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-132-aed05aba-bd52-4855-ae2b-bd72299e4245"
+      "id": "z-132-aed05aba-bd52-4855-ae2b-bd72299e4245",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "It is worth doing usability tests for very large user groups.",
@@ -1201,7 +1248,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-133-7b9b4b23-ee2e-48f4-b26d-59546355de6e"
+      "id": "z-133-7b9b4b23-ee2e-48f4-b26d-59546355de6e",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The usability level presented by the application has no impact on user productivity.",
@@ -1226,7 +1274,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-134-b56b7c75-211b-4880-99dd-b489440666e1"
+      "id": "z-134-b56b7c75-211b-4880-99dd-b489440666e1",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Before you start your own design work, you should test your competitor solutions.",
@@ -1251,7 +1300,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-135-381a4383-0dbe-489f-963b-e5378bcbb5a5"
+      "id": "z-135-381a4383-0dbe-489f-963b-e5378bcbb5a5",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Instead of creating a consistent GUI design, it is better to include a comprehensive manual.",
@@ -1276,7 +1326,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-136-715f8c98-3efb-4250-96e9-d0f0f6403e9d"
+      "id": "z-136-715f8c98-3efb-4250-96e9-d0f0f6403e9d",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Modern monitors are large, so you do not have to worry about proper window space management.",
@@ -1301,7 +1352,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-137-6211e4ac-4a96-4714-852d-55e2c1b59fac"
+      "id": "z-137-6211e4ac-4a96-4714-852d-55e2c1b59fac",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Checklists should be included with each interface project.",
@@ -1326,7 +1378,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-138-029d78c5-5948-4a0a-a61c-90296f1e9249"
+      "id": "z-138-029d78c5-5948-4a0a-a61c-90296f1e9249",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "All platforms have identical interface requirements.",
@@ -1351,7 +1404,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-139-8ac68087-0557-4a2d-be96-8e1dda822006"
+      "id": "z-139-8ac68087-0557-4a2d-be96-8e1dda822006",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "An optional and repetitive attribute may use ArrayList.",
@@ -1376,7 +1430,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-14-e389fd75-41d2-449d-980b-ee7c7a5d302c"
+      "id": "z-14-e389fd75-41d2-449d-980b-ee7c7a5d302c",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The interface design should include information about scaling controls.",
@@ -1401,7 +1456,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-140-1ceb4eae-b9e8-49b5-917d-b0daeb10818a"
+      "id": "z-140-1ceb4eae-b9e8-49b5-917d-b0daeb10818a",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The interface design may contain information about the type of controls.",
@@ -1426,7 +1482,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-141-1b6870e6-8627-4a23-a720-a0a09d0304d0"
+      "id": "z-141-1b6870e6-8627-4a23-a720-a0a09d0304d0",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Manual GUI implementation is the fastest way to implement it.",
@@ -1451,7 +1508,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-142-70c3c230-80fd-4129-be73-0e01e015f7ee"
+      "id": "z-142-70c3c230-80fd-4129-be73-0e01e015f7ee",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Using graphical editors accelerates the GUI creation process.",
@@ -1476,7 +1534,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-143-29925a51-d920-4adc-a95f-93ea6cdc437c"
+      "id": "z-143-29925a51-d920-4adc-a95f-93ea6cdc437c",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The only significant criterion for choosing a GUI library is its price.",
@@ -1501,7 +1560,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-144-a05e93ad-1591-4ad1-a18d-4f0dcfc5899c"
+      "id": "z-144-a05e93ad-1591-4ad1-a18d-4f0dcfc5899c",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The criterion of cross-platform is not always relevant.",
@@ -1526,7 +1586,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-145-81c0d797-4b97-4f3b-ae79-08900774d230"
+      "id": "z-145-81c0d797-4b97-4f3b-ae79-08900774d230",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The Swing library is currently (still) the most popular desktop application development solution for Java.",
@@ -1551,7 +1612,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-146-9ae88731-8d0d-49a0-bdc5-784c4357fe0a"
+      "id": "z-146-9ae88731-8d0d-49a0-bdc5-784c4357fe0a",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The SWT library is always faster than Swing.",
@@ -1576,7 +1638,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-147-929b5610-5195-4c30-aaaa-d9392d9df51f"
+      "id": "z-147-929b5610-5195-4c30-aaaa-d9392d9df51f",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The workload needed to create your own GUI library is comparable to that required for existing modification.",
@@ -1601,7 +1664,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-148-9054998a-392a-4b66-a3fe-a2f8ea0afa8f"
+      "id": "z-148-9054998a-392a-4b66-a3fe-a2f8ea0afa8f",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Creating your own GUI library requires first of all the ability to work at a high level of abstraction.",
@@ -1626,7 +1690,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-149-9edbf1bd-d658-48df-95e2-7be39ada0e52"
+      "id": "z-149-9edbf1bd-d658-48df-95e2-7be39ada0e52",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Regardless of the implementation of extent, the class attribute must be declared as static.",
@@ -1651,7 +1716,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-15-2c300d72-a7b8-4444-aed2-7f63df35a79f"
+      "id": "z-15-2c300d72-a7b8-4444-aed2-7f63df35a79f",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Adding String instead of objects to the control decreases the performance of the application and increases the required developer workload.",
@@ -1676,7 +1742,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-150-b48c5e0e-ed19-4e94-af93-f7022f8d7a75"
+      "id": "z-150-b48c5e0e-ed19-4e94-af93-f7022f8d7a75",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Using the dedicated listener for handling controls improves code readability.",
@@ -1701,7 +1768,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-151-ed6e6b5d-0dcc-4811-aacf-9389c518ed24"
+      "id": "z-151-ed6e6b5d-0dcc-4811-aacf-9389c518ed24",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The programmer, in all circumstances, should use only one distribution manager.",
@@ -1726,7 +1794,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-152-b78c927f-ec08-4748-a90b-12f2ad0b3be3"
+      "id": "z-152-b78c927f-ec08-4748-a90b-12f2ad0b3be3",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "All the controls we refer to in the code should have the correct names given.",
@@ -1751,7 +1820,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-153-16998baa-ac54-4d47-94b2-d6c92d386388"
+      "id": "z-153-16998baa-ac54-4d47-94b2-d6c92d386388",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Moving calculations to a separate thread can improve user interface performance.",
@@ -1776,7 +1846,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-154-847dc1a4-e02b-461d-98d2-108d64c30575"
+      "id": "z-154-847dc1a4-e02b-461d-98d2-108d64c30575",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The SwingWorker class displays the default version of the progress bar.",
@@ -1801,7 +1872,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-155-064bbf65-e3de-4721-b2ed-705c849d6f24"
+      "id": "z-155-064bbf65-e3de-4721-b2ed-705c849d6f24",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Using the SwingWorker class speeds up execution of calculations about 3 times.",
@@ -1826,7 +1898,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-156-1dde8573-1e9c-4865-9ff3-23be11ef51a1"
+      "id": "z-156-1dde8573-1e9c-4865-9ff3-23be11ef51a1",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The ProgressWorker class displays the progress bar.",
@@ -1851,7 +1924,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-157-38568726-3622-4f4a-aed9-ae495ecf7cd9"
+      "id": "z-157-38568726-3622-4f4a-aed9-ae495ecf7cd9",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The ProgressWorker class just like SwingWorker supports interrupting the operation.",
@@ -1876,7 +1950,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-158-111997cc-78b9-4f85-8f58-113100dd925b"
+      "id": "z-158-111997cc-78b9-4f85-8f58-113100dd925b",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Declarative GUI creation is an absolute novelty and no commercial company provides such capabilities.",
@@ -1901,7 +1976,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-159-f80d170b-0a8c-422c-b50d-221a35e55a40"
+      "id": "z-159-f80d170b-0a8c-422c-b50d-221a35e55a40",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementation of an object attribute must use only simple types",
@@ -1926,7 +2002,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-16-32a5180d-9bdd-4929-ba29-e191a6a0276d"
+      "id": "z-16-32a5180d-9bdd-4929-ba29-e191a6a0276d",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Semantic declarations make it possible to work on a higher level of abstraction than a component.",
@@ -1951,7 +2028,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-160-f4f494f5-1645-402e-b30d-834436f651e6"
+      "id": "z-160-f4f494f5-1645-402e-b30d-834436f651e6",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementing a derived attribute may require calculating and storing its value.",
@@ -1976,7 +2054,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-17-065fc020-8b98-4d22-a8a5-3079d514c542"
+      "id": "z-17-065fc020-8b98-4d22-a8a5-3079d514c542",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementing a derived attribute always means creating both setters and getters methods.",
@@ -2001,7 +2080,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-18-7b9b014f-6a26-44ac-9bf9-bd1956664478"
+      "id": "z-18-7b9b014f-6a26-44ac-9bf9-bd1956664478",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "In order to create an object method in Java, you must use the keyword object.",
@@ -2026,7 +2106,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-19-b716d581-19e8-43f5-9420-25772ced80d1"
+      "id": "z-19-b716d581-19e8-43f5-9420-25772ced80d1",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The object method can only modify the attributes of the instance to which it was invoked.",
@@ -2051,7 +2132,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-20-5fedc19f-b6e5-4133-a26c-74c3c495e3bf"
+      "id": "z-20-5fedc19f-b6e5-4133-a26c-74c3c495e3bf",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "To create a class method in Java, use the class keyword.",
@@ -2076,7 +2158,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-21-8b4e8809-611b-43b0-85b4-62fac5def066"
+      "id": "z-21-8b4e8809-611b-43b0-85b4-62fac5def066",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Class method can be used even when there is no object of the class.",
@@ -2101,7 +2184,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-22-37830e61-95ab-46c2-9384-da6c3314127d"
+      "id": "z-22-37830e61-95ab-46c2-9384-da6c3314127d",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "One way to achieve extent persistence is to save it to a file.",
@@ -2126,7 +2210,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-23-03be5d2c-efd9-42fc-831a-34ee3477655e"
+      "id": "z-23-03be5d2c-efd9-42fc-831a-34ee3477655e",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Business applications do not need extent persistence.",
@@ -2151,7 +2236,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-24-6ed56951-b33b-49d9-9051-494c08c047cf"
+      "id": "z-24-6ed56951-b33b-49d9-9051-494c08c047cf",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The method storing a single object should, as a parameter, accept the file name.",
@@ -2176,7 +2262,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-25-5f3b3f84-4cd1-4fac-a49b-0d70fb473ee5"
+      "id": "z-25-5f3b3f84-4cd1-4fac-a49b-0d70fb473ee5",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The method storing all extents should accept the file name as a parameter.",
@@ -2201,7 +2288,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-26-c17b3729-c6d7-4cb2-86c2-de634aa5f581"
+      "id": "z-26-c17b3729-c6d7-4cb2-86c2-de634aa5f581",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The problem of extent persistence related to links is due to the poor performance of the Java platform.",
@@ -2226,7 +2314,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-27-0e495a16-c022-433f-955f-29cb2a0c2487"
+      "id": "z-27-0e495a16-c022-433f-955f-29cb2a0c2487",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "One of the ways to effectively maintain links between objects is to use references.",
@@ -2251,7 +2340,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-28-13bb67d9-98a1-4cc7-9948-cbea768719a7"
+      "id": "z-28-13bb67d9-98a1-4cc7-9948-cbea768719a7",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "In order to improve performance, each extent should be serialized into a separate file.",
@@ -2276,7 +2366,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-29-21a29c3a-2bf8-4b06-b4c6-2a9de4a9bb78"
+      "id": "z-29-21a29c3a-2bf8-4b06-b4c6-2a9de4a9bb78",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "In order to use serialization, you just need to implement the Serializable interface.",
@@ -2301,7 +2392,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-30-22db6916-4da3-4a66-9d47-9fe919eab158"
+      "id": "z-30-22db6916-4da3-4a66-9d47-9fe919eab158",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Our own implementation of extent management is due to the fact that native Java mechanisms have poor performance.",
@@ -2326,7 +2418,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-31-554136d8-b07f-4fbf-a386-fc67b54c4453"
+      "id": "z-31-554136d8-b07f-4fbf-a386-fc67b54c4453",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "By inheriting from ObjectPlus, business classes will receive extent management.",
@@ -2351,7 +2444,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-32-78615a27-0ee3-4060-84f8-ab00430ef9b9"
+      "id": "z-32-78615a27-0ee3-4060-84f8-ab00430ef9b9",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Many class extents can easily be stored in ArrayList.",
@@ -2376,7 +2470,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-33-38e52ef6-2cdd-4d9a-9f56-aee5c585e69b"
+      "id": "z-33-38e52ef6-2cdd-4d9a-9f56-aee5c585e69b",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Hashtable is a mapping container.",
@@ -2401,7 +2496,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-34-54c08d55-3c70-4c51-b1b9-9a962aadce56"
+      "id": "z-34-54c08d55-3c70-4c51-b1b9-9a962aadce56",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Hashtable is one of several possible classes that can store a lot of extents in Java.",
@@ -2426,7 +2522,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-35-2607d73c-63c0-4003-bb89-c08f279f7739"
+      "id": "z-35-2607d73c-63c0-4003-bb89-c08f279f7739",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Association is an instance of a link.",
@@ -2451,7 +2548,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-36-a93906e4-5590-485e-ad01-6c52284882a1"
+      "id": "z-36-a93906e4-5590-485e-ad01-6c52284882a1",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Association describes a link.",
@@ -2476,7 +2574,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-37-be85e94b-97c4-466b-8bc9-0041ca4f14b4"
+      "id": "z-37-be85e94b-97c4-466b-8bc9-0041ca4f14b4",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The way in which associations and links are implemented varies depending on the defined cardinalities.",
@@ -2501,7 +2600,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-38-0d2dde54-7053-4aad-adb1-fe3c54a81cdf"
+      "id": "z-38-0d2dde54-7053-4aad-adb1-fe3c54a81cdf",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Correctly defined cardinalities reduce the risk of making an error.",
@@ -2526,7 +2626,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-39-5350dab1-dbfc-4313-a640-8b723e0e76c9"
+      "id": "z-39-5350dab1-dbfc-4313-a640-8b723e0e76c9",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementing an association with IDs provides better performance than using references.",
@@ -2551,7 +2652,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-40-32d8b143-0f6f-4169-8a05-357a3aa0dcc3"
+      "id": "z-40-32d8b143-0f6f-4169-8a05-357a3aa0dcc3",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementation of cardinalities * - * enforces use of two containers (eg. ArrayList).",
@@ -2576,7 +2678,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-41-fe538a07-3328-4ef6-8c81-9bc9620f5403"
+      "id": "z-41-fe538a07-3328-4ef6-8c81-9bc9620f5403",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "One way to implement an association attribute is to add it to one of the classes.",
@@ -2601,7 +2704,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-42-8d12ca23-5efa-41ba-b3d9-4da3725120a5"
+      "id": "z-42-8d12ca23-5efa-41ba-b3d9-4da3725120a5",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Introducing an intermediary class makes it difficult to access information stored in a combined class.",
@@ -2626,7 +2730,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-43-3fd73ba4-7754-4e5e-bd62-187e326ff1f4"
+      "id": "z-43-3fd73ba4-7754-4e5e-bd62-187e326ff1f4",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The most efficient way to implement a qualified association is to replace ArrayList with Vector.",
@@ -2651,7 +2756,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-44-3506783e-440b-41c5-98a6-400436499bd1"
+      "id": "z-44-3506783e-440b-41c5-98a6-400436499bd1",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "One way to improve the performance of a qualified association is to replace ArrayList with Hashtable.",
@@ -2676,7 +2782,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-45-5f0a2101-7071-4775-bbba-d22ecd53c04f"
+      "id": "z-45-5f0a2101-7071-4775-bbba-d22ecd53c04f",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Return links make it easy to meet your business requirements.",
@@ -2701,7 +2808,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-46-1bf8b111-f92a-43c7-88c4-b9a44c50fb98"
+      "id": "z-46-1bf8b111-f92a-43c7-88c4-b9a44c50fb98",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Associations in the superclass are not inherited.",
@@ -2726,7 +2834,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-47-30cc4f31-b1cd-4dc1-8ae9-0ceb37154e38"
+      "id": "z-47-30cc4f31-b1cd-4dc1-8ae9-0ceb37154e38",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The concrete class may contain both abstract and concrete methods.",
@@ -2751,7 +2860,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-48-8957a61c-c9fe-4afa-b1fb-42b1b6815279"
+      "id": "z-48-8957a61c-c9fe-4afa-b1fb-42b1b6815279",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "In the abstract class there can be both abstract and concrete methods",
@@ -2776,7 +2886,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-49-32c5f348-765b-4223-9cae-5b40494440c9"
+      "id": "z-49-32c5f348-765b-4223-9cae-5b40494440c9",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The method override may exist without the polymorphic method call.",
@@ -2801,7 +2912,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-50-89014390-c13d-4688-a461-f2620ecbed4a"
+      "id": "z-50-89014390-c13d-4688-a461-f2620ecbed4a",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Polymorphic calls to methods can exist without overriding methods.",
@@ -2826,7 +2938,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-51-52974caa-474f-417a-ae3e-4623ede0ded5"
+      "id": "z-51-52974caa-474f-417a-ae3e-4623ede0ded5",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "In inheritance overalpping object can belong to several classes at once.",
@@ -2851,7 +2964,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-52-ded31ed9-ca0f-4520-8e3f-8ad84fa2aa43"
+      "id": "z-52-ded31ed9-ca0f-4520-8e3f-8ad84fa2aa43",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Thanks to the use of composition instead of inheritance we have easy access to inherited invariants.",
@@ -2876,7 +2990,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-53-be65ec89-db48-4514-8f0f-2f10ecf89d00"
+      "id": "z-53-be65ec89-db48-4514-8f0f-2f10ecf89d00",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "When replacing the overlapping inheritance with a composition, we need to implement it with inner classes.",
@@ -2901,7 +3016,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-54-500f2dfe-2fb9-4057-8d75-620abb973c14"
+      "id": "z-54-500f2dfe-2fb9-4057-8d75-620abb973c14",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "In Java, interfaces can directly serve to define object attributes, firstName.",
@@ -2926,7 +3042,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-55-b0ea165f-d11b-4e39-8e2f-1c63318a72b9"
+      "id": "z-55-b0ea165f-d11b-4e39-8e2f-1c63318a72b9",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The operation propagation causes the business code of the method to be in a single place.",
@@ -2951,7 +3068,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-56-277b3a7a-d276-4988-a2fc-adbc9a4685bc"
+      "id": "z-56-277b3a7a-d276-4988-a2fc-adbc9a4685bc",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Multi-aspect inheritance is the same as multi-inheritance.",
@@ -2976,7 +3094,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-57-1cfe2bde-b5b0-4098-a482-c6c71d684db8"
+      "id": "z-57-1cfe2bde-b5b0-4098-a482-c6c71d684db8",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Multi-aspect inheritance occurs in all popular programming languages.",
@@ -3001,7 +3120,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-58-7bb56995-44cf-48cc-89d1-d53428cb53f0"
+      "id": "z-58-7bb56995-44cf-48cc-89d1-d53428cb53f0",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The simplest way to implement multi-aspect inheritance is to flatten the hierarchy.",
@@ -3026,7 +3146,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-59-19c0f53f-34d1-4656-b029-cefde57dca2f"
+      "id": "z-59-19c0f53f-34d1-4656-b029-cefde57dca2f",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementing multi-aspect inheritance one of the aspect should be implemented using a \"real\" inheritance of a given programming language.",
@@ -3051,7 +3172,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-60-3456c27a-2715-450d-8940-6f2eef5d21ac"
+      "id": "z-60-3456c27a-2715-450d-8940-6f2eef5d21ac",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The simplest way to implement dynamic inheritance is to flatten the hierarchy.",
@@ -3076,7 +3198,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-61-b017f415-cb42-455d-8339-ffa63aa9cdbf"
+      "id": "z-61-b017f415-cb42-455d-8339-ffa63aa9cdbf",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Flattening of the hierarchy should be combined with the addition of the discriminator.",
@@ -3101,7 +3224,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-62-56b7c213-72dd-4479-b882-352ed9bf6e1a"
+      "id": "z-62-56b7c213-72dd-4479-b882-352ed9bf6e1a",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementing a dynamic inheritance based on a composition should use the {or} constraint.",
@@ -3126,7 +3250,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-63-d18d3823-a2c0-48b0-81c1-dcf989eb8089"
+      "id": "z-63-d18d3823-a2c0-48b0-81c1-dcf989eb8089",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The most precise way to write constraints is the natural language.",
@@ -3151,7 +3276,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-64-51415045-3531-4784-82c7-aa213d107467"
+      "id": "z-64-51415045-3531-4784-82c7-aa213d107467",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "In practice, no constraints are used because everything can be expressed as a \"standard\" notation.",
@@ -3176,7 +3302,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-65-997d2069-343d-493e-898c-03dc16786c0a"
+      "id": "z-65-997d2069-343d-493e-898c-03dc16786c0a",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The constraints in Java use the special constraint keyword.",
@@ -3201,7 +3328,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-66-6017f9a6-4790-415b-b750-ec8ca65bf127"
+      "id": "z-66-6017f9a6-4790-415b-b750-ec8ca65bf127",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The basic principle used to implement constraints is to create public attributes and private methods.",
@@ -3226,7 +3354,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-67-0f4e9c5f-b81b-4c73-91af-b5cb6cc15fac"
+      "id": "z-67-0f4e9c5f-b81b-4c73-91af-b5cb6cc15fac",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Declaring constants in constraints is a good practice.",
@@ -3251,7 +3380,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-68-7b3950b5-f6f4-4923-902a-01602850e920"
+      "id": "z-68-7b3950b5-f6f4-4923-902a-01602850e920",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementing {unique} with the class attribute Set will improve performance at the expense of memory.",
@@ -3276,7 +3406,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-69-bdcc8a11-73f0-414a-a8e7-d49cbb8c3b2f"
+      "id": "z-69-bdcc8a11-73f0-414a-a8e7-d49cbb8c3b2f",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementing {unique} using the extent reduces memory consumption at the expense of performance.",
@@ -3301,7 +3432,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-70-d117018a-e7f8-4494-b9e6-e3405661b347"
+      "id": "z-70-d117018a-e7f8-4494-b9e6-e3405661b347",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The {subset} implementation requires a method to check for the existence of a given link.",
@@ -3326,7 +3458,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-71-9f62f8d7-3afc-46b2-a956-7b5af3baf18e"
+      "id": "z-71-9f62f8d7-3afc-46b2-a956-7b5af3baf18e",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The {subset} constraint holds the associations in a fixed order.",
@@ -3351,7 +3484,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-72-ec2d2eb5-32a2-4de2-b987-f2434cf2e57d"
+      "id": "z-72-ec2d2eb5-32a2-4de2-b987-f2434cf2e57d",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The {ordered} implementation requires a method to check for the existence of a given link.",
@@ -3376,7 +3510,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-73-53868443-3e0d-4d83-8fc0-fe95dd1001b2"
+      "id": "z-73-53868443-3e0d-4d83-8fc0-fe95dd1001b2",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "By using {ordered}, we can store duplicate links.",
@@ -3401,7 +3536,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-74-6eb70c55-8238-43a3-ac3e-1edb9f640e10"
+      "id": "z-74-6eb70c55-8238-43a3-ac3e-1edb9f640e10",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementing {bag} requires a method that checks for the existence of a given link.",
@@ -3426,7 +3562,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-75-aa7168e7-1fb8-43d9-8ff0-37cbb0724334"
+      "id": "z-75-aa7168e7-1fb8-43d9-8ff0-37cbb0724334",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "By using {bag} constraint we can store duplicate links.",
@@ -3451,7 +3588,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-76-0b0cc81b-24d5-4096-b102-d535876ca4ea"
+      "id": "z-76-0b0cc81b-24d5-4096-b102-d535876ca4ea",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Implementing {xor} requires a method to check the existence of a given link.",
@@ -3476,7 +3614,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-77-464b8834-11bf-404c-a7a6-d90fd2edb33d"
+      "id": "z-77-464b8834-11bf-404c-a7a6-d90fd2edb33d",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "By using {xor} we can store duplicate links.",
@@ -3501,7 +3640,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-78-1b8d2b4b-f792-417d-af31-c30112af31ce"
+      "id": "z-78-1b8d2b4b-f792-417d-af31-c30112af31ce",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Relational model is popular because of the richness of its structure.",
@@ -3526,7 +3666,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-79-6e0d9eee-b0ff-4d3f-ab40-4722be005ce7"
+      "id": "z-79-6e0d9eee-b0ff-4d3f-ab40-4722be005ce7",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Relational databases for sure will be replaced by object-oriented.",
@@ -3551,7 +3692,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-80-88d6bdf0-ce60-4699-98e7-8f1a400fca75"
+      "id": "z-80-88d6bdf0-ce60-4699-98e7-8f1a400fca75",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Relational model uses the concept of object identity.",
@@ -3576,7 +3718,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-81-09e3bdb1-3c28-4ef8-bbb3-29631f8dbfe7"
+      "id": "z-81-09e3bdb1-3c28-4ef8-bbb3-29631f8dbfe7",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "One of the basic relational model concepts is the primary key and the foreign key.",
@@ -3601,7 +3744,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-82-2e854529-7f6f-4a2e-998a-39ec9eb3f7ea"
+      "id": "z-82-2e854529-7f6f-4a2e-998a-39ec9eb3f7ea",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Indexes increase the speed of all operations in the database.",
@@ -3626,7 +3770,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-83-631bdad7-e1c1-469a-84dc-392fca0fac01"
+      "id": "z-83-631bdad7-e1c1-469a-84dc-392fca0fac01",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The explosion of popularity of web applications has contributed to the popularization of databases.",
@@ -3651,7 +3796,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-84-a09fed5f-9ed5-4119-9aae-4fa9213c096f"
+      "id": "z-84-a09fed5f-9ed5-4119-9aae-4fa9213c096f",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The impedance mismatch is due to the poor performance of databases",
@@ -3676,7 +3822,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-85-5b808a26-369a-4174-9fca-3887154e0a17"
+      "id": "z-85-5b808a26-369a-4174-9fca-3887154e0a17",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The impedance mismatch does not occur when you create a system entirely on the database side.",
@@ -3701,7 +3848,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-86-dd8d3002-18f4-40ec-aa57-efac9f0cf42d"
+      "id": "z-86-dd8d3002-18f4-40ec-aa57-efac9f0cf42d",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Classes are mapped to relational tables.",
@@ -3726,7 +3874,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-87-2c906331-fbbc-49df-ac02-ad3b0807a810"
+      "id": "z-87-2c906331-fbbc-49df-ac02-ad3b0807a810",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Simple attributes are directly mapped to columns in the table.",
@@ -3751,7 +3900,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-88-d41d4993-6551-4be4-8727-69f20ec93890"
+      "id": "z-88-d41d4993-6551-4be4-8727-69f20ec93890",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The primary key is a combination of several columns of text type that provides better performance than a single-column numeric key.",
@@ -3776,7 +3926,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-89-80e14218-8c16-4a1f-8d9f-77a6232e035d"
+      "id": "z-89-80e14218-8c16-4a1f-8d9f-77a6232e035d",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The primary key is used to identify a specific tuple.",
@@ -3801,7 +3952,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-90-d8126ccf-edfb-4b36-b97c-2187824184c9"
+      "id": "z-90-d8126ccf-edfb-4b36-b97c-2187824184c9",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Simple attributes are implemented in RM as columns in the table.",
@@ -3826,7 +3978,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-91-7871bbfa-ed00-49f6-8e12-71587c934f98"
+      "id": "z-91-7871bbfa-ed00-49f6-8e12-71587c934f98",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Complex attributes can be implemented in RM as a separate table with a foreign key.",
@@ -3851,7 +4004,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-92-d4cb3081-681f-4923-bafe-75b006aed3b7"
+      "id": "z-92-d4cb3081-681f-4923-bafe-75b006aed3b7",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Optional attributes must be implemented as a separate table.",
@@ -3876,7 +4030,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-93-e4a12158-8fd7-4d2c-98bd-5ad87d70b6f1"
+      "id": "z-93-e4a12158-8fd7-4d2c-98bd-5ad87d70b6f1",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The manadatory attributes are implemented as a column allowing NULL value.",
@@ -3901,7 +4056,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-94-daae8315-b20d-4945-8ad8-5749ff16bb9b"
+      "id": "z-94-daae8315-b20d-4945-8ad8-5749ff16bb9b",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "One way to implement a repetitive attribute is to store its value in a text field.",
@@ -3926,7 +4082,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-95-abfc581d-2418-4e89-ae13-9bd9b355b3e8"
+      "id": "z-95-abfc581d-2418-4e89-ae13-9bd9b355b3e8",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "One way to implement repetitive attributes is to store values ​​in a separate table.",
@@ -3951,7 +4108,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-96-adde6aba-a0ba-48e4-910b-cbd7d0a5f927"
+      "id": "z-96-adde6aba-a0ba-48e4-910b-cbd7d0a5f927",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The best way to implement a class attribute is to define it on the programming language side without worrying about data persistency.",
@@ -3976,7 +4134,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-97-491e2a5a-b32b-4689-a407-ebd119e31306"
+      "id": "z-97-491e2a5a-b32b-4689-a407-ebd119e31306",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "The class attribute can be written to a dedicated table.",
@@ -4001,7 +4160,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-98-72a9fbd1-6644-4702-9a35-d8f06f087261"
+      "id": "z-98-72a9fbd1-6644-4702-9a35-d8f06f087261",
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Derived attributes can be implemented as a special type of column in a regular table.",
@@ -4026,7 +4186,8 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "z-99-2ed013c7-e330-4bbf-9600-c24ad088d6a4"
+      "id": "z-99-2ed013c7-e330-4bbf-9600-c24ad088d6a4",
+      "$schema": "../../../schemas/subject-patch.json"
     }
   ]
 }

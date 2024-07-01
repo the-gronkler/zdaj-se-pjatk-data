@@ -1,5 +1,5 @@
 {
-  "$schema": "../schemas/subject-override.json",
+  "$schema": "../schemas/subject-index-patch.json",
   "title": "Technika i Architektura Komputerów",
   "id": "tak",
   "updatedAt": 1673385234728,
@@ -24,7 +24,8 @@
           "answer": "konkretnego rozkladu pewnej zmiennej losowej",
           "correct": false
         }
-      ]
+      ],
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
@@ -42,7 +43,8 @@
           "answer": "konkretnego rozkładu pewnej zmiennej losowej",
           "correct": false
         }
-      ]
+      ],
+      "$schema": "../../../schemas/subject-patch.json"
     },
     {
       "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
@@ -61,7 +63,8 @@
           "answer": "Wszystkich możliwych do wyobrażenia algorytmów",
           "correct": false
         }
-      ]
+      ],
+      "$schema": "../../../schemas/subject-patch.json"
     }
   ]
 }
