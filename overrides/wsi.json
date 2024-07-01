@@ -1,11 +1,12 @@
 {
-  "$schema":"../schemas/subject-override.json",
+  "$schema": "../schemas/subject-override.json",
   "title": "Wstęp do systemów informacyjnych",
   "id": "wsi",
+  "updatedAt": 1675678458235,
   "data": [
     {
       "question": "Spiralny model cyklu życia oprogramowania:",
-      "id": 3202,
+      "id": "3202",
       "numberOfComments": 0,
       "contributor": "Kacper",
       "answers": [
@@ -28,6 +29,5 @@
       ],
       "comments": []
     }
-  ],
-  "updatedAt": 1675678458235
+  ]
 }

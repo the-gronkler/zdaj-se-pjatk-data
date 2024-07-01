@@ -1,11 +1,11 @@
 {
-  "$schema":"../schemas/subject-override.json",
+  "$schema": "../schemas/subject-override.json",
   "title": "Technika i Architektura Komputerów",
   "id": "tak",
   "updatedAt": 1673385234728,
   "data": [
     {
-      "id": 1932,
+      "id": "1932",
       "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
       "answers": [
         {
@@ -28,7 +28,7 @@
     },
     {
       "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
-      "id": 2212,
+      "id": "2212",
       "answers": [
         {
           "answer": "konkretnych danych",
@@ -46,7 +46,7 @@
     },
     {
       "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
-      "id": 2624,
+      "id": "2624",
       "numberOfComments": 0,
       "answers": [
         {

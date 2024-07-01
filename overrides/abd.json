@@ -1,6 +1,7 @@
 {
-  "$schema":"../schemas/subject-override.json",
+  "$schema": "../schemas/subject-override.json",
   "id": "abd",
+  "updatedAt": 1657199812909,
   "data": [
     {
       "question": "Załóżmy, że w bazie danych PostgreSQL mamy tabelkę wykorzystującą typ danych jsonb. Czy możemy założyć indeks, który przyspieszyłby zapytanie pokazane poniżej (zakładając , że tabelka ma odpowiednią ilość danych i zapytanie jest selektywne):\n`SELECT * FROM books WHERE data->'published' = 'false';`",
@@ -23,13 +24,14 @@
           "answer": "Indeks B+ drzewo na wyrażeniu ((data->'published'))",
           "correct": false
         }
-      ]
+      ],
+      "id": "f2bd99d5-60be-4cba-bfb1-0ae1ffce3a4a"
     },
     {
       "question": "Wybierz narzędzia klienckie wykorzystywane podczas pracy administracyjnej z bazą danych PostgreSQL",
       "isMarkdown": true,
       "comments": [],
-      "id": 3633,
+      "id": "3633",
       "answers": [
         {
           "answer": "psql",
@@ -70,12 +72,13 @@
           "answer": "Zarówno użytkownicy jak i role nie są dostępne w PostgreSQL",
           "correct": false
         }
-      ]
+      ],
+      "id": "ea6385f1-7b86-450b-bd10-9fa36964e55a"
     },
     {
       "question": "Rozważ następujące zapytanie SQL:\n```sql\nselect fname, lname from person\nwhere fname='Anna' or lname='Kowalska';\n```\nJaki zestaw indeksów będzie w tym wypadku najkorzystniejszy z poniższych?",
       "isMarkdown": true,
-      "id": 3330,
+      "id": "3330",
       "comments": [],
       "answers": [
         {
@@ -121,13 +124,14 @@
           "answer": "W PostgreSQL nie występują indeksu pogrupowane (clustered).",
           "correct": false
         }
-      ]
+      ],
+      "id": "16238725-536d-48eb-b0f0-187d06e1ca93"
     },
     {
       "question": "Rozważ następujące zapytanie SQL:\n```sql\nselect idperson, fname, lname, birthdate from person\nwhere fname='Anna' and birthdate='01-01-2001';\n```\nKtóry z poniższych indeksów realizuję strategię \"tylko indeks\"?",
       "isMarkdown": true,
       "comments": [],
-      "id": 3339,
+      "id": "3339",
       "answers": [
         {
           "answer": "`create index index1 on person(fname, birthdate, idperson, lname);`",
@@ -172,7 +176,8 @@
           "answer": "Indeks typu WDS",
           "correct": false
         }
-      ]
+      ],
+      "id": "be318bde-f870-4c40-8032-cf422d39f649"
     },
     {
       "question": "Wskaż poprawne stwierdzenia dotyczące kont logowania (logins) i użytkowników (users) w MS SQL Server:",
@@ -195,7 +200,8 @@
           "answer": "Użytkownik (user) jest zawsze tworzony dla jednej bazy danych",
           "correct": false
         }
-      ]
+      ],
+      "id": "42089a3d-c36e-4a2f-a608-5e408382a3ec"
     },
     {
       "question": "W MS SQL Server wykonano następujące instrukcje z włączonym automatycznym zatwierdzaniem transakcji: \n```sql\nINSERT INTO tabela (a) VALUES (1)\nCOMMIT\nINSERT INTO tabela (a) VALUES (2)\nROLLBACK\n```\nPodaj ile rekordów będzie zawierała tabela przy założeniu, że na początku była pusta?",
@@ -218,7 +224,8 @@
           "answer": "3",
           "correct": false
         }
-      ]
+      ],
+      "id": "f7a19c94-7a59-4a18-8a92-97798eb05abd"
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące poziomów izolacji transakcji w MS SQL Server:",
@@ -241,7 +248,8 @@
           "answer": "Problem fantomów może wystąpić na poziomie READ COMMITTED.",
           "correct": false
         }
-      ]
+      ],
+      "id": "a7309452-6bdf-4080-b5a2-067383227adc"
     },
     {
       "question": "Kiedy wskazane jest użycie indeksu pogrupowanego zamiast niepogrupowanego w MS SQL Server",
@@ -264,7 +272,8 @@
           "answer": "Zapytania z użyciem LIKE",
           "correct": false
         }
-      ]
+      ],
+      "id": "76f8dc19-d40e-4496-8ea7-32c2ceb75be4"
     },
     {
       "question": "Które stwierdzenia są prawdziwe w kontekście indeksów w MS SQL Server?",
@@ -287,7 +296,8 @@
           "answer": "Dołączone kolumny \"included columns\" ułatwiają użycie strategii \"tylko indeks\".",
           "correct": false
         }
-      ]
+      ],
+      "id": "210efb87-0135-45fd-aff9-a255dbe29b56"
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące opcji \"shrink\" w MS SQL Server",
@@ -310,7 +320,8 @@
           "answer": "Dokonuje kompresji danych w plikach *.mdf podobnej do tej stosowanej w narzędziach do archiwizacji (np. ZIP lub RAR)",
           "correct": false
         }
-      ]
+      ],
+      "id": "dcf50358-ca5e-420d-be0a-0be1d5b84c12"
     },
     {
       "question": "Które z uprawnień są najsilniejsze w MS SQL Server?",
@@ -333,7 +344,8 @@
           "answer": "na poziomie schematu (schemat permissions)",
           "correct": false
         }
-      ]
+      ],
+      "id": "9440266a-58ba-43f3-9d2e-7914de440678"
     },
     {
       "question": "Wybierz poprawne stwierdzenia dotyczące konfiguracji typu \"log shipping\" w MS SQL Server:",
@@ -356,7 +368,8 @@
           "answer": "W konfiguracji typu \"log shipping\", gdy wprowadzimy modyfikację do tabeli na serwerze zapasowym, to ta modyfikacja zostanie automatycznie przeniesiona na serwer główny przy pomocy rozproszonej transakcji.",
           "correct": false
         }
-      ]
+      ],
+      "id": "0d656c92-77c0-4bf2-aea6-5f16a26ce9b5"
     },
     {
       "question": "Do czego może zostać użyty SQL Server Profiler?",
@@ -379,7 +392,8 @@
           "answer": "Do zapisywania aktywności użytkowników w pliku.",
           "correct": false
         }
-      ]
+      ],
+      "id": "ee81f829-c26e-463a-ad5c-b02913c5fd02"
     },
     {
       "question": "W MS SQL Server wykonywana była pełna kopia zapasowa nocy z soboty na niedzielę. Następnie co godzinę każdego dnia w godz. 8-16 wykonywana była kopia dziennika transakcji. Awaria nastąpiła w środę o 12:01. Których kopii zapasowych i w jakiej kolejności użyjesz, aby odtworzyć tą bazę danych?",
@@ -402,7 +416,8 @@
           "answer": "Najpierw pełny, a następnie wszystkie logi wykonane od ostatniego restartu serwera.",
           "correct": false
         }
-      ]
+      ],
+      "id": "3ce5de2f-9ce9-4383-b150-4fd16ce7c451"
     },
     {
       "question": "Wybierz prawdziwe stwierdzenia dotyczące kopii zapasowych w MS SQL Server:",
@@ -425,7 +440,8 @@
           "answer": "Kopia dziennika transakcji (transaction log backup) zawiera zawsze wszystkie zmiany, które zaszły w bazie danych od czasu wykonania ostatniej kopii pełnej lub różnicowej.",
           "correct": false
         }
-      ]
+      ],
+      "id": "b77f593c-6246-4832-bcf7-2890d1ac06cc"
     },
     {
       "question": "Wybierz prawdziwe stwierdzenia dotyczące kopii zapasowych w MS SQL Server:",
@@ -448,19 +464,32 @@
           "answer": "Kopia zapasowa zawiera również obiekty takie jak procedury składowane czy wyzwalacze.",
           "correct": false
         }
-      ]
+      ],
+      "id": "5d07068a-6a22-445f-b529-20ca595cff4b"
     },
     {
       "question": "W MS SQL Server nadano użytkownikowi prawo SELECT i INSERT do schematu \"abd\". W schemacie znajduje się obiekt \"emp\". Użytkownik należy do roli, która ma prawo SELECT i UPDATE na obiekcie abd.emp. Użytkownik ma DENY na INSERT na poziomie bazy danych. Jakie instrukcje będzie mógł wykonać użytkownik na tabeli abd.emp?",
       "isMarkdown": true,
       "comments": [],
       "answers": [
-        { "answer": "SELECT", "correct": false },
-        { "answer": "INSERT", "correct": false },
-        { "answer": "UPDATE", "correct": false },
-        { "answer": "DELETE", "correct": false }
-      ]
+        {
+          "answer": "SELECT",
+          "correct": false
+        },
+        {
+          "answer": "INSERT",
+          "correct": false
+        },
+        {
+          "answer": "UPDATE",
+          "correct": false
+        },
+        {
+          "answer": "DELETE",
+          "correct": false
+        }
+      ],
+      "id": "f9fb31e0-7c40-43c3-a92c-f7c244f3f3de"
     }
-  ],
-  "updatedAt": 1657199812909
+  ]
 }

@@ -5,7 +5,7 @@
   "data": [
     {
       "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
-      "id": 3473,
+      "id": "3473",
       "comments": [
         {
           "author": "Ola",
@@ -34,7 +34,7 @@
     },
     {
       "question": "<strong>Które z wymienionych instrukcji PL/SQL prawidłowo zadeklarują zmienną (zmienne) w PL/SQL ?</strong>",
-      "id": 3475,
+      "id": "3475",
       "comments": [
         {
           "author": "Ola",
@@ -85,11 +85,12 @@
           "correct": false,
           "isMarkdown": false
         }
-      ]
+      ],
+      "id": "e05250e8-7346-4e75-8a97-f77ea94c6738"
     },
     {
       "question": "Wskazać poprawne zapytanie SQL (w Oracle) znajdujące stanowiska, na których średni zarobek wynosi 3000 lub więcej.",
-      "id": 2384,
+      "id": "2384",
       "isMarkdown": false,
       "answers": [
         {
@@ -138,7 +139,8 @@
           "correct": false,
           "isMarkdown": true
         }
-      ]
+      ],
+      "id": "b2220bf2-c6ae-4cee-a387-fd8226a42702"
     },
     {
       "question": "Hurtownia danych jest:",
@@ -171,7 +173,8 @@
           "answer": "nieulotna",
           "correct": true
         }
-      ]
+      ],
+      "id": "8699e5c5-b90a-4c01-a5f8-9d3a02987b6e"
     },
     {
       "question": "Zróżnicowanie czasowe w definicji hurtowni danych oznacza, że",
@@ -192,7 +195,8 @@
           "answer": "gromadzone są dane historyczne i każdy fakt opatrzony jest stemplem czasowym",
           "correct": true
         }
-      ]
+      ],
+      "id": "8906966b-43ed-4613-ab5d-305190fc5c3f"
     },
     {
       "question": "Nieulotność w definicji hurtowni danych oznacza, że",
@@ -213,7 +217,8 @@
           "answer": "dane są jednolite",
           "correct": false
         }
-      ]
+      ],
+      "id": "ae3eb90b-21fa-4d43-9453-bb3a2b0f306e"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "updatedAt": 1707679176310,
   "data": [
     {
-      "id": 2431,
+      "id": "2431",
       "question": "Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące średnie zarobki tylko tych departamentów, które zatrudniają wiecej, niż trzech pracowników:",
       "isMarkdown": false,
       "comments": [],
@@ -50,7 +50,8 @@
           "correct": false,
           "isMarkdown": true
         }
-      ]
+      ],
+      "id": "cf0508ad-221a-40f7-ab13-4d17d4744b7c"
     },
     {
       "question": "W funkcji (FUNCTION) PL/SQL:",
@@ -76,7 +77,8 @@
           "correct": true,
           "isMarkdown": false
         }
-      ]
+      ],
+      "id": "128d05f1-dbd7-4b66-919c-cc72164e8e54"
     },
     {
       "question": "Zintegrowanie w definicji hurtowni danych oznacza, że:",
@@ -102,7 +104,8 @@
           "correct": false,
           "isMarkdown": false
         }
-      ]
+      ],
+      "id": "afcfee56-c4a7-451b-9af5-d6a316e9a089"
     }
   ]
 }
