@@ -4,13 +4,11 @@
   "data": [
     {
       "id": "2141",
-      "question": "Język WSDL służy wyspecyfikowaniu (wskaż kompletną odpowiedź)",
-      "$schema": "../../../schemas/subject-patch.json"
+      "question": "Język WSDL służy wyspecyfikowaniu (wskaż kompletną odpowiedź)"
     },
     {
       "id": "2142",
-      "question": "Projekt Seti@Home to:",
-      "$schema": "../../../schemas/subject-patch.json"
+      "question": "Projekt Seti@Home to:"
     },
     {
       "question": "Selektor CSS sformułowany jako `ul ol` selekcjonuje element[y]",
@@ -38,8 +36,7 @@
           "isMarkdown": true,
           "correct": false
         }
-      ],
-      "$schema": "../../../schemas/subject-patch.json"
+      ]
     },
     {
       "question": "Kaskadowe arkusze stylów (CSS):",
@@ -61,8 +58,7 @@
           "answer": "Wykluczają możliwość zastosowania grafiki wektorowej",
           "correct": false
         }
-      ],
-      "$schema": "../../../schemas/subject-patch.json"
+      ]
     },
     {
       "question": "Do technologii dynamicznych stron WWW zaliczamy:",
@@ -89,8 +85,7 @@
           "isMarkdown": false
         }
       ],
-      "id": "z-00-87817eb3-7ae7-4b9b-8d6b-9812561e43a7",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-00-87817eb3-7ae7-4b9b-8d6b-9812561e43a7"
     },
     {
       "question": "Wyrażenie w języku Ruby&nbsp;<strong>:xyz.class</strong> zwróci:",
@@ -117,8 +112,7 @@
           "isMarkdown": false
         }
       ],
-      "id": "z-01-8af1b2c6-bf34-4983-af09-bb06c1632c78",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-01-8af1b2c6-bf34-4983-af09-bb06c1632c78"
     },
     {
       "question": "Język XSLT:",
@@ -145,8 +139,7 @@
           "isMarkdown": false
         }
       ],
-      "id": "z-02-bdecf51a-4dfd-4ece-81ea-2f4ad135070a",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-02-bdecf51a-4dfd-4ece-81ea-2f4ad135070a"
     },
     {
       "question": "Numery portów są przekazywane w ramach:",
@@ -173,8 +166,7 @@
           "isMarkdown": false
         }
       ],
-      "id": "z-03-431f8064-d5a5-4875-93c8-c4cfa44e3b53",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-03-431f8064-d5a5-4875-93c8-c4cfa44e3b53"
     }
   ]
 }

@@ -29,8 +29,7 @@
           "correct": true,
           "isMarkdown": true
         }
-      ],
-      "$schema": "../../../schemas/subject-patch.json"
+      ]
     },
     {
       "question": "Rozważ następujące zapytanie SQL:\n```sql\nselect idperson, fname, lname, birthdate from person\nwhere fname='Anna' and birthdate='01-01-2001';\n```\nKtóry z poniższych indeksów realizuję strategię \"tylko indeks\"?",
@@ -58,8 +57,7 @@
           "correct": false,
           "isMarkdown": true
         }
-      ],
-      "$schema": "../../../schemas/subject-patch.json"
+      ]
     },
     {
       "question": "Wybierz narzędzia klienckie wykorzystywane podczas pracy administracyjnej z bazą danych PostgreSQL",
@@ -83,8 +81,7 @@
           "answer": "SQL Oracle Developer",
           "correct": false
         }
-      ],
-      "$schema": "../../../schemas/subject-patch.json"
+      ]
     },
     {
       "question": "Załóżmy, że w bazie danych PostgreSQL mamy tabelkę wykorzystującą typ danych jsonb. Czy możemy założyć indeks, który przyspieszyłby zapytanie pokazane poniżej (zakładając , że tabelka ma odpowiednią ilość danych i zapytanie jest selektywne):\n`SELECT * FROM books WHERE data->'published' = 'false';`",
@@ -108,8 +105,7 @@
           "correct": false
         }
       ],
-      "id": "z-00-d2c3de42-a7d1-49c0-9254-07f2de1f6b4a",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-00-d2c3de42-a7d1-49c0-9254-07f2de1f6b4a"
     },
     {
       "question": "Jaka jest różnica między użytkownikami i rolami w PostgreSQL?",
@@ -133,8 +129,7 @@
           "correct": false
         }
       ],
-      "id": "z-01-b94f419e-defe-49e7-9776-c1a7027fa394",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-01-b94f419e-defe-49e7-9776-c1a7027fa394"
     },
     {
       "question": "Zaznacz poprawne stwierdzenia na temat indeksów",
@@ -158,8 +153,7 @@
           "correct": false
         }
       ],
-      "id": "z-02-eb5c0e30-2b00-4789-9578-48fa9437a643",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-02-eb5c0e30-2b00-4789-9578-48fa9437a643"
     },
     {
       "question": "Czy PostgreSQL obsługuje następujące indeksy?",
@@ -183,8 +177,7 @@
           "correct": false
         }
       ],
-      "id": "z-03-9eab6767-c03c-42c5-bccd-f181156504ad",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-03-9eab6767-c03c-42c5-bccd-f181156504ad"
     },
     {
       "question": "Wskaż poprawne stwierdzenia dotyczące kont logowania (logins) i użytkowników (users) w MS SQL Server:",
@@ -208,8 +201,7 @@
           "correct": false
         }
       ],
-      "id": "z-04-e464ab22-fdee-4794-bd62-2458e3320e86",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-04-e464ab22-fdee-4794-bd62-2458e3320e86"
     },
     {
       "question": "W MS SQL Server wykonano następujące instrukcje z włączonym automatycznym zatwierdzaniem transakcji: \n```sql\nINSERT INTO tabela (a) VALUES (1)\nCOMMIT\nINSERT INTO tabela (a) VALUES (2)\nROLLBACK\n```\nPodaj ile rekordów będzie zawierała tabela przy założeniu, że na początku była pusta?",
@@ -233,8 +225,7 @@
           "correct": false
         }
       ],
-      "id": "z-05-f85dc39a-06dd-42fd-8d87-5168aac488ab",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-05-f85dc39a-06dd-42fd-8d87-5168aac488ab"
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące poziomów izolacji transakcji w MS SQL Server:",
@@ -258,8 +249,7 @@
           "correct": false
         }
       ],
-      "id": "z-06-237a16b5-5310-46b0-a124-d34583966725",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-06-237a16b5-5310-46b0-a124-d34583966725"
     },
     {
       "question": "Kiedy wskazane jest użycie indeksu pogrupowanego zamiast niepogrupowanego w MS SQL Server",
@@ -283,8 +273,7 @@
           "correct": false
         }
       ],
-      "id": "z-07-b3cb7621-5c9d-4622-a206-d7b12d661860",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-07-b3cb7621-5c9d-4622-a206-d7b12d661860"
     },
     {
       "question": "Które stwierdzenia są prawdziwe w kontekście indeksów w MS SQL Server?",
@@ -308,8 +297,7 @@
           "correct": false
         }
       ],
-      "id": "z-08-cdb56fae-7093-4747-907e-92c8fbd8ad7c",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-08-cdb56fae-7093-4747-907e-92c8fbd8ad7c"
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące opcji \"shrink\" w MS SQL Server",
@@ -333,8 +321,7 @@
           "correct": false
         }
       ],
-      "id": "z-09-628d20e0-e5b4-4c3b-8d35-f33535585fda",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-09-628d20e0-e5b4-4c3b-8d35-f33535585fda"
     },
     {
       "question": "Które z uprawnień są najsilniejsze w MS SQL Server?",
@@ -358,8 +345,7 @@
           "correct": false
         }
       ],
-      "id": "z-10-c12e37ca-9057-4969-8e6a-b8ec497985c5",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-10-c12e37ca-9057-4969-8e6a-b8ec497985c5"
     },
     {
       "question": "Wybierz poprawne stwierdzenia dotyczące konfiguracji typu \"log shipping\" w MS SQL Server:",
@@ -383,8 +369,7 @@
           "correct": false
         }
       ],
-      "id": "z-11-3cf02271-1613-4823-8992-72325d10755d",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-11-3cf02271-1613-4823-8992-72325d10755d"
     },
     {
       "question": "Do czego może zostać użyty SQL Server Profiler?",
@@ -408,8 +393,7 @@
           "correct": false
         }
       ],
-      "id": "z-12-cfee97e3-c9d0-4604-b691-83848cee523c",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-12-cfee97e3-c9d0-4604-b691-83848cee523c"
     },
     {
       "question": "W MS SQL Server wykonywana była pełna kopia zapasowa nocy z soboty na niedzielę. Następnie co godzinę każdego dnia w godz. 8-16 wykonywana była kopia dziennika transakcji. Awaria nastąpiła w środę o 12:01. Których kopii zapasowych i w jakiej kolejności użyjesz, aby odtworzyć tą bazę danych?",
@@ -433,8 +417,7 @@
           "correct": false
         }
       ],
-      "id": "z-13-316a3e87-45b8-4a87-be3d-9b9f83cb63ce",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-13-316a3e87-45b8-4a87-be3d-9b9f83cb63ce"
     },
     {
       "question": "Wybierz prawdziwe stwierdzenia dotyczące kopii zapasowych w MS SQL Server:",
@@ -458,8 +441,7 @@
           "correct": false
         }
       ],
-      "id": "z-14-05faaeb4-49ca-42bf-9750-1b794d78b283",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-14-05faaeb4-49ca-42bf-9750-1b794d78b283"
     },
     {
       "question": "Wybierz prawdziwe stwierdzenia dotyczące kopii zapasowych w MS SQL Server:",
@@ -483,8 +465,7 @@
           "correct": false
         }
       ],
-      "id": "z-15-159342df-7ad2-49ae-9ec8-a96eaecdd981",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-15-159342df-7ad2-49ae-9ec8-a96eaecdd981"
     },
     {
       "question": "W MS SQL Server nadano użytkownikowi prawo SELECT i INSERT do schematu \"abd\". W schemacie znajduje się obiekt \"emp\". Użytkownik należy do roli, która ma prawo SELECT i UPDATE na obiekcie abd.emp. Użytkownik ma DENY na INSERT na poziomie bazy danych. Jakie instrukcje będzie mógł wykonać użytkownik na tabeli abd.emp?",
@@ -508,8 +489,7 @@
           "correct": false
         }
       ],
-      "id": "z-16-1452b8a8-3f96-4443-84c0-e02990f37ded",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-16-1452b8a8-3f96-4443-84c0-e02990f37ded"
     }
   ]
 }

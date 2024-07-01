@@ -27,8 +27,7 @@
           "correct": false
         }
       ],
-      "comments": [],
-      "$schema": "../../../schemas/subject-patch.json"
+      "comments": []
     }
   ]
 }

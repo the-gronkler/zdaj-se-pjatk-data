@@ -28,8 +28,7 @@
           "correct": true,
           "isMarkdown": true
         }
-      ],
-      "$schema": "../../../schemas/subject-patch.json"
+      ]
     },
     {
       "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
@@ -58,8 +57,7 @@
           "answer": "wielowersyjność",
           "correct": true
         }
-      ],
-      "$schema": "../../../schemas/subject-patch.json"
+      ]
     },
     {
       "question": "<strong>Które z wymienionych instrukcji PL/SQL prawidłowo zadeklarują zmienną (zmienne) w PL/SQL ?</strong>",
@@ -88,8 +86,7 @@
           "answer": "DECLARE v_ile emp.sal%TYPE;",
           "correct": true
         }
-      ],
-      "$schema": "../../../schemas/subject-patch.json"
+      ]
     },
     {
       "question": "<strong>W których z wymienionych sytuacji mówimy o problemie fantomów?</strong>",
@@ -116,8 +113,7 @@
           "isMarkdown": false
         }
       ],
-      "id": "z-00-7816ffd8-3dac-4670-b743-2b5d7f0d9129",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-00-7816ffd8-3dac-4670-b743-2b5d7f0d9129"
     },
     {
       "question": "Jaką wartość dla kolumny `Salary` zwróci to zapytanie?\n```sql\nSELECT ename, NVL(sal, 0) \"Salary\" FROM Emp WHERE Sal IS NULL ORDER BY ename;```",
@@ -144,8 +140,7 @@
           "isMarkdown": true
         }
       ],
-      "id": "z-01-7ba61be9-4ca2-4b50-b23e-b4d68ff6740a",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-01-7ba61be9-4ca2-4b50-b23e-b4d68ff6740a"
     },
     {
       "question": "Hurtownia danych jest:",
@@ -179,8 +174,7 @@
           "correct": true
         }
       ],
-      "id": "z-02-318e5752-0f82-465f-948e-e08a88d4b8b0",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-02-318e5752-0f82-465f-948e-e08a88d4b8b0"
     },
     {
       "question": "Zróżnicowanie czasowe w definicji hurtowni danych oznacza, że",
@@ -202,8 +196,7 @@
           "correct": true
         }
       ],
-      "id": "z-03-a8c843e7-27e0-47f6-a739-f36e78b76bd7",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-03-a8c843e7-27e0-47f6-a739-f36e78b76bd7"
     },
     {
       "question": "Nieulotność w definicji hurtowni danych oznacza, że",
@@ -225,8 +218,7 @@
           "correct": false
         }
       ],
-      "id": "z-04-ac9025df-5603-43ac-b073-c63f3048fa02",
-      "$schema": "../../../schemas/subject-patch.json"
+      "id": "z-04-ac9025df-5603-43ac-b073-c63f3048fa02"
     }
   ]
 }
