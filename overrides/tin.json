@@ -3,34 +3,12 @@
   "updatedAt": 1707434565194,
   "data": [
     {
-      "id": "2142",
-      "question": "Projekt Seti@Home to:"
-    },
-    {
       "id": "2141",
       "question": "Język WSDL służy wyspecyfikowaniu (wskaż kompletną odpowiedź)"
     },
     {
-      "question": "Kaskadowe arkusze stylów (CSS):",
-      "id": "3396",
-      "answers": [
-        {
-          "answer": "Są interpretowane po stronie serwera",
-          "correct": false
-        },
-        {
-          "answer": "Pozwalają usprawnić ładowanie korzystających z nich stron",
-          "correct": true
-        },
-        {
-          "answer": "Wymagają przygotowania stron w postaci zgodnej z XHTML",
-          "correct": false
-        },
-        {
-          "answer": "Wykluczają możliwość zastosowania grafiki wektorowej",
-          "correct": false
-        }
-      ]
+      "id": "2142",
+      "question": "Projekt Seti@Home to:"
     },
     {
       "question": "Selektor CSS sformułowany jako `ul ol` selekcjonuje element[y]",
@@ -61,6 +39,28 @@
       ]
     },
     {
+      "question": "Kaskadowe arkusze stylów (CSS):",
+      "id": "3396",
+      "answers": [
+        {
+          "answer": "Są interpretowane po stronie serwera",
+          "correct": false
+        },
+        {
+          "answer": "Pozwalają usprawnić ładowanie korzystających z nich stron",
+          "correct": true
+        },
+        {
+          "answer": "Wymagają przygotowania stron w postaci zgodnej z XHTML",
+          "correct": false
+        },
+        {
+          "answer": "Wykluczają możliwość zastosowania grafiki wektorowej",
+          "correct": false
+        }
+      ]
+    },
+    {
       "question": "Do technologii dynamicznych stron WWW zaliczamy:",
       "isMarkdown": false,
       "answers": [
@@ -85,7 +85,7 @@
           "isMarkdown": false
         }
       ],
-      "id": "8edb321e-747e-4c76-ae14-d2e360958393"
+      "id": "z-00-87817eb3-7ae7-4b9b-8d6b-9812561e43a7"
     },
     {
       "question": "Wyrażenie w języku Ruby&nbsp;<strong>:xyz.class</strong> zwróci:",
@@ -112,7 +112,7 @@
           "isMarkdown": false
         }
       ],
-      "id": "9a0b4165-6624-4815-9953-a580f854ee3a"
+      "id": "z-01-8af1b2c6-bf34-4983-af09-bb06c1632c78"
     },
     {
       "question": "Język XSLT:",
@@ -139,7 +139,7 @@
           "isMarkdown": false
         }
       ],
-      "id": "51939e59-d007-48f1-bd2c-1f94e696be66"
+      "id": "z-02-bdecf51a-4dfd-4ece-81ea-2f4ad135070a"
     },
     {
       "question": "Numery portów są przekazywane w ramach:",
@@ -166,7 +166,7 @@
           "isMarkdown": false
         }
       ],
-      "id": "8154f18c-cb95-4391-a2cc-19c0eb850db3"
+      "id": "z-03-431f8064-d5a5-4875-93c8-c4cfa44e3b53"
     }
   ]
 }

@@ -26,7 +26,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "ad9b99e0-e65e-43b3-adae-9558e6e7ea8e"
+      "id": "z-00-b07f1f5e-7d98-4472-a027-706f88d27351"
     },
     {
       "question": "Class instance is an object.",
@@ -51,7 +51,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "26d558dc-ebe9-44f2-8f09-4c3b2d4d3824"
+      "id": "z-01-a38e02e2-8223-4d10-9938-0912548c6405"
     },
     {
       "question": "Classes in Java are presented directly.",
@@ -76,7 +76,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "d361b73f-c422-4ba0-ad69-f5572b3ddb17"
+      "id": "z-02-a54e42d2-cdc1-432f-9200-acbd135ff49c"
     },
     {
       "question": "Class extent and object mean the same thing.",
@@ -101,7 +101,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "5bb80fc9-a51b-4c0f-a92c-70c07897f02c"
+      "id": "z-03-3e07c723-7034-40e5-b9b6-9a1551687be0"
     },
     {
       "question": "Class instance is an object.",
@@ -126,7 +126,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "280e4d08-5ab5-4cb6-a34e-5656a43bd6d4"
+      "id": "z-04-aa13f785-b3f0-4fb3-b955-f4dbe070bd03"
     },
     {
       "question": "Extent of a class may change over time.",
@@ -151,7 +151,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "98290987-2c87-4b46-a8a6-298cc307e1e1"
+      "id": "z-05-5a76ff7f-79d7-4ec7-96bf-a9fe44577a37"
     },
     {
       "question": "When implementing class extent within the same business class, the collection must be declared as static.",
@@ -176,7 +176,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "23be3785-f3e6-4a79-8037-e583081f7020"
+      "id": "z-06-4d068810-eb74-44fa-bc02-cdb9ce493c64"
     },
     {
       "question": "An example of a simple attribute is Address.",
@@ -201,7 +201,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "6c51e86e-b2d2-466c-99fc-c1ee3b193d63"
+      "id": "z-07-7be6f7f7-e297-47cf-9658-f7fad30ed54d"
     },
     {
       "question": "In Java, simple attributes are implemented with the simple keyword.",
@@ -226,7 +226,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "693050a1-03ad-4981-84ff-e15ea829b43c"
+      "id": "z-08-ca849020-ce7d-4783-b026-84f121cca3ba"
     },
     {
       "question": "An example of a complex attribute is a double last name.",
@@ -251,7 +251,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "4dcf7793-9e59-44c8-9470-690c754a44ac"
+      "id": "z-09-4eb2d864-0a17-4144-8eff-8b436ed563fb"
     },
     {
       "question": "A compound attribute can be implemented as a class object.",
@@ -276,7 +276,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "0f40a49f-3026-4512-82a6-93d7dd8ac577"
+      "id": "z-10-4ad820be-b19d-4bb2-8a23-8fd691076d95"
     },
     {
       "question": "The database view allows us to define, for example, the age of a person calculated on the basis of the date of birth.",
@@ -301,7 +301,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "d957fca2-9769-41ca-bc79-b939b6d573af"
+      "id": "z-100-e11315ee-84a5-4280-9ba9-02ab36325fe4"
     },
     {
       "question": "Every database makes it easy to define methods in tables.",
@@ -326,7 +326,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "7e4b63a3-b7ce-42e0-9892-268ef1fc68fc"
+      "id": "z-101-0dad71aa-6686-4139-bab6-869e5aca75fb"
     },
     {
       "question": "Each database makes it easy to define class methods in tables.",
@@ -351,7 +351,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "91ec765f-9c25-4d04-bcb0-0a99ebbd83f5"
+      "id": "z-102-426a16da-46b1-4fdb-8e46-a468b3a89402"
     },
     {
       "question": "Associations of 1:1 cardinality can be realized with a foreign key.",
@@ -376,7 +376,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "c00ddd8e-4814-4ea5-a7f8-2f02b970e224"
+      "id": "z-103-41e8bbf1-a1b0-4373-8c9a-83503a7e938b"
     },
     {
       "question": "Association 1:* can be realized with a foreign key.",
@@ -401,7 +401,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "69efa379-f254-4be3-a248-a37d3d6dad0f"
+      "id": "z-104-7ebeb2d8-c609-4bba-a7a4-b7ba87396279"
     },
     {
       "question": "Associations *:* can be accomplished using an intermediary table.",
@@ -426,7 +426,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "483af45e-0fd4-45da-a148-ae5efc60c1cb"
+      "id": "z-105-e63a8ead-5efc-487e-b742-6ee519a3c349"
     },
     {
       "question": "You can add two primary keys and 4 foreign keys to avoid entering the intermediate table.",
@@ -451,7 +451,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "f1d918e0-336d-4754-b0f1-5f250fac3c43"
+      "id": "z-106-c8c80fe8-50e3-4601-aa06-74f60041a61c"
     },
     {
       "question": "Introducing an intermediary table facilitates understanding of business rules.",
@@ -476,7 +476,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "9f8668a3-e719-4c0d-a046-f352e39d0da6"
+      "id": "z-107-158d3c1a-25b1-44a0-8e9a-54f005850cef"
     },
     {
       "question": "A design that is close to a qualified association can be implemented by selecting the correct primary and the foreign keys.",
@@ -501,7 +501,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "7038f499-fa3c-4ba9-b328-696dab74a900"
+      "id": "z-108-2368b0f3-2183-4477-9f9e-87af37b755ec"
     },
     {
       "question": "The primary purpose of using a qualified association is to speed up the search for connected objects.",
@@ -526,7 +526,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "7fef23b0-7377-47c7-9b90-859cae23cd82"
+      "id": "z-109-260961b8-925c-4191-b1e2-f3b7f0781e9d"
     },
     {
       "question": "The repetitive attribute can be implemented using ArrayList.",
@@ -551,7 +551,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "d8deb0e1-c136-4428-b489-f60537adf95d"
+      "id": "z-11-3153852d-0446-4e35-929d-d813f32a2a27"
     },
     {
       "question": "Implementation of aggregation and composition in RM is based on similar assumptions as for Java.",
@@ -576,7 +576,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "85d7b335-e87e-453c-92bd-b90e824d5e90"
+      "id": "z-110-a087f6b9-7fa6-4543-84e2-e58f4e46baa2"
     },
     {
       "question": "It is worthwhile to use built-in DB mechanisms such as triggers.",
@@ -601,7 +601,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "089ba401-7eaf-49ba-89c5-9d1d39c27be2"
+      "id": "z-111-d7ea1148-5f05-4543-80f4-e6cfe8a81438"
     },
     {
       "question": "In the classical relational model there are all kinds of inheritance except overlapping.",
@@ -626,7 +626,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "d4e60917-f14a-431b-a69d-d8e72d58b3f1"
+      "id": "z-112-0cb48110-51cb-4191-8e82-7af98e3ff735"
     },
     {
       "question": "One way to implement inheritance in RM is to flatten the hierarchy.",
@@ -651,7 +651,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "cff5874f-b705-47ed-b162-03e836861095"
+      "id": "z-113-bf45b027-097f-4429-a815-e9eca3862d16"
     },
     {
       "question": "API libraries were designed exclusively for working with DB.",
@@ -676,7 +676,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "110fec27-6cdc-485d-b620-f6f05780e5d4"
+      "id": "z-114-3ad4bae7-d52a-4394-a80c-34cf66c304e2"
     },
     {
       "question": "JDBC technology makes it easy to write portable (between different BDs) applications.",
@@ -701,7 +701,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "245df5dd-461e-4504-b9c5-61d08d43740f"
+      "id": "z-115-2ccdc067-2c54-4bed-a242-6c8d754a3dc4"
     },
     {
       "question": "The main reason for using ORM tools is to improve the performance of BD access.",
@@ -726,7 +726,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "065762f2-087c-486b-9c93-afa62a514e71"
+      "id": "z-116-7e263209-7662-45d0-82eb-739b5f8807de"
     },
     {
       "question": "ORMs, to some extent, suppress the impedance mismatch.",
@@ -751,7 +751,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "4e0efd49-0d60-4cc1-af73-b69496c83e10"
+      "id": "z-117-9eaf3990-0843-4c81-9d21-b39609207837"
     },
     {
       "question": "The biggest advantage of LINQ is the efficiency of accessing databases.",
@@ -776,7 +776,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "00ca14f4-aea6-4d72-8b71-bcc3c47d8a95"
+      "id": "z-118-3740e074-4fee-49aa-ace4-31bcdf28ec08"
     },
     {
       "question": "One version of LINQ allows you to work with native .NET collections.",
@@ -801,7 +801,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "f292c516-9679-46ab-af67-50baa316d4c4"
+      "id": "z-119-3b2578ad-471b-4362-969a-ce9846575b94"
     },
     {
       "question": "Always use Java arrays to implement repetitive attributes.",
@@ -826,7 +826,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "b24c0f0c-37df-4ecd-8c39-80b7da1fd289"
+      "id": "z-12-c8a4656a-266d-4b0d-9d8a-de31ac1f0c2b"
     },
     {
       "question": "The @OneToMany annotation is used to map the association.",
@@ -851,7 +851,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "3270e3d2-2d63-4e43-b20d-e7dd1aad1e07"
+      "id": "z-120-6c31f6aa-dd02-489e-bff7-36dcdc86e50b"
     },
     {
       "question": "When working with Hibernate, you need to create and update the DB schema manually.",
@@ -876,7 +876,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "034185b4-4c13-4824-a47e-8853af079b2f"
+      "id": "z-121-cf1c2abf-4d33-4b59-acec-4015d379d952"
     },
     {
       "question": "Transforming a directed association into a bidirectional one requires, among other things, adding dedicated constructs on the Java side.",
@@ -901,7 +901,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "756bcda1-e2f2-42d5-a970-e0caa7fa6aae"
+      "id": "z-122-d0cecb5f-3602-4f8c-971d-feb632ab9a99"
     },
     {
       "question": "The data schema for the directed and bidirectional association is identical.",
@@ -926,7 +926,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "6d6866a8-af56-4870-ba92-2524e4f31fbf"
+      "id": "z-123-ea809f30-25ba-4ede-a448-ab6fd9630c87"
     },
     {
       "question": "Implementing multi-valued attributes with Hibernate is no different than the implementation of the association.",
@@ -951,7 +951,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "99e9a057-5e98-40bd-93c7-95736bb0f50f"
+      "id": "z-124-41cbd64b-bc3a-4194-b4f7-a3b6447bb70f"
     },
     {
       "question": "The @ElementCollection annotation is used for the implementation of multi-valued attributes.",
@@ -976,7 +976,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "a7a0ae64-5edc-45b8-947c-c46e2bec9a49"
+      "id": "z-125-e4d2de2f-86b8-4dfb-acca-f9d8326676c8"
     },
     {
       "question": "The most important in the application is functionality, and the interface is a minor add-on.",
@@ -1001,7 +1001,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "e95d5cb9-2fd5-46aa-af99-8ccd5156f673"
+      "id": "z-126-9275f1b9-44c8-478a-852e-aeaf367dc4c5"
     },
     {
       "question": "It is very easy to measure the quality of the interface.",
@@ -1026,7 +1026,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "48d8d960-a96a-401c-b145-09c6ed5793ba"
+      "id": "z-127-03fddaa2-c437-4e53-8327-419e4f837238"
     },
     {
       "question": "Usability of interfaces is an interdisciplinary issue.",
@@ -1051,7 +1051,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "2f68b655-9d2d-4ae5-aa15-3336a7b67822"
+      "id": "z-128-fb028aeb-b7bd-48c6-b289-a1e3b54c2837"
     },
     {
       "question": "One of the most important aspects of usability is the practical usefulness of the thing/service.",
@@ -1076,7 +1076,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "4e85fe3a-e935-4b72-b0fd-542e955bfe4e"
+      "id": "z-129-b020ee08-5b33-41eb-adef-bd3c9660ad98"
     },
     {
       "question": "The ArrayList collection may not have any elements, so it is suitable for implementing the optional attribute double.",
@@ -1101,7 +1101,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "9048df38-e9db-413a-95c1-cc058147d841"
+      "id": "z-13-6d7430c2-735c-422d-83ab-02e3dfc3a99e"
     },
     {
       "question": "One of the basic elements facilitating shaping usability is frequent contacts with users.",
@@ -1126,7 +1126,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "09390e09-3a0d-47c6-baec-b7ea51b4591f"
+      "id": "z-130-53bf731f-f72b-466a-8661-20ec61e9de88"
     },
     {
       "question": "Usability can be shaped in complete isolation from the users.",
@@ -1151,7 +1151,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "7f9c5d5f-415a-4ede-9813-27f5d0972d6b"
+      "id": "z-131-3f2664e8-0b37-4030-b9f2-c8e678e961c8"
     },
     {
       "question": "You do not have to watch your users during the usability tests - just listen to their comments.",
@@ -1176,7 +1176,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "1836bcd1-0bf9-48da-bba0-bea7c461838f"
+      "id": "z-132-aed05aba-bd52-4855-ae2b-bd72299e4245"
     },
     {
       "question": "It is worth doing usability tests for very large user groups.",
@@ -1201,7 +1201,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "4d85cf33-5963-4608-89e1-672a2ca970a2"
+      "id": "z-133-7b9b4b23-ee2e-48f4-b26d-59546355de6e"
     },
     {
       "question": "The usability level presented by the application has no impact on user productivity.",
@@ -1226,7 +1226,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "a24b5a26-848b-4644-a663-95df5d0e4018"
+      "id": "z-134-b56b7c75-211b-4880-99dd-b489440666e1"
     },
     {
       "question": "Before you start your own design work, you should test your competitor solutions.",
@@ -1251,7 +1251,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "0bddb04b-a29c-4d0e-a2b5-79e76646035c"
+      "id": "z-135-381a4383-0dbe-489f-963b-e5378bcbb5a5"
     },
     {
       "question": "Instead of creating a consistent GUI design, it is better to include a comprehensive manual.",
@@ -1276,7 +1276,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "b7979d5f-5724-4464-b011-c1d5527097e4"
+      "id": "z-136-715f8c98-3efb-4250-96e9-d0f0f6403e9d"
     },
     {
       "question": "Modern monitors are large, so you do not have to worry about proper window space management.",
@@ -1301,7 +1301,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "5b9b019c-99fd-4304-ab09-7470b140b9a8"
+      "id": "z-137-6211e4ac-4a96-4714-852d-55e2c1b59fac"
     },
     {
       "question": "Checklists should be included with each interface project.",
@@ -1326,7 +1326,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "25081692-16a9-45be-814c-7c8ce16835fa"
+      "id": "z-138-029d78c5-5948-4a0a-a61c-90296f1e9249"
     },
     {
       "question": "All platforms have identical interface requirements.",
@@ -1351,7 +1351,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "0fa6529a-2233-4671-812c-bb832d8dba35"
+      "id": "z-139-8ac68087-0557-4a2d-be96-8e1dda822006"
     },
     {
       "question": "An optional and repetitive attribute may use ArrayList.",
@@ -1376,7 +1376,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "65da3f3c-6e5e-423d-9dbd-3e3f682d154b"
+      "id": "z-14-e389fd75-41d2-449d-980b-ee7c7a5d302c"
     },
     {
       "question": "The interface design should include information about scaling controls.",
@@ -1401,7 +1401,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "57ec5f81-2d46-4a7f-b6a7-3d9281b38f8d"
+      "id": "z-140-1ceb4eae-b9e8-49b5-917d-b0daeb10818a"
     },
     {
       "question": "The interface design may contain information about the type of controls.",
@@ -1426,7 +1426,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "3159f84a-4f23-4e9d-a6b4-de2cc3d34d4a"
+      "id": "z-141-1b6870e6-8627-4a23-a720-a0a09d0304d0"
     },
     {
       "question": "Manual GUI implementation is the fastest way to implement it.",
@@ -1451,7 +1451,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "2120edda-481e-4b8e-a0f6-93b78a4606af"
+      "id": "z-142-70c3c230-80fd-4129-be73-0e01e015f7ee"
     },
     {
       "question": "Using graphical editors accelerates the GUI creation process.",
@@ -1476,7 +1476,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "3a74dfa1-b3ab-4da2-aded-7c839b8b5bb4"
+      "id": "z-143-29925a51-d920-4adc-a95f-93ea6cdc437c"
     },
     {
       "question": "The only significant criterion for choosing a GUI library is its price.",
@@ -1501,7 +1501,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "92b024e0-8516-47b7-b376-48d55d23e1a0"
+      "id": "z-144-a05e93ad-1591-4ad1-a18d-4f0dcfc5899c"
     },
     {
       "question": "The criterion of cross-platform is not always relevant.",
@@ -1526,7 +1526,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "bd2c1443-a101-400d-92e5-6819f62decb9"
+      "id": "z-145-81c0d797-4b97-4f3b-ae79-08900774d230"
     },
     {
       "question": "The Swing library is currently (still) the most popular desktop application development solution for Java.",
@@ -1551,7 +1551,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "cbca1abd-f144-4d27-b16a-f636a186e740"
+      "id": "z-146-9ae88731-8d0d-49a0-bdc5-784c4357fe0a"
     },
     {
       "question": "The SWT library is always faster than Swing.",
@@ -1576,7 +1576,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "cd47a629-6641-421a-95c5-8772f9b67618"
+      "id": "z-147-929b5610-5195-4c30-aaaa-d9392d9df51f"
     },
     {
       "question": "The workload needed to create your own GUI library is comparable to that required for existing modification.",
@@ -1601,7 +1601,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "93e523e5-48bb-4061-9bf0-1e759b437bdb"
+      "id": "z-148-9054998a-392a-4b66-a3fe-a2f8ea0afa8f"
     },
     {
       "question": "Creating your own GUI library requires first of all the ability to work at a high level of abstraction.",
@@ -1626,7 +1626,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "13fa2af0-85fe-495c-bdae-f8068a944f35"
+      "id": "z-149-9edbf1bd-d658-48df-95e2-7be39ada0e52"
     },
     {
       "question": "Regardless of the implementation of extent, the class attribute must be declared as static.",
@@ -1651,7 +1651,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "c73fd525-56a4-4b6f-bbb2-8619f46c6d22"
+      "id": "z-15-2c300d72-a7b8-4444-aed2-7f63df35a79f"
     },
     {
       "question": "Adding String instead of objects to the control decreases the performance of the application and increases the required developer workload.",
@@ -1676,7 +1676,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "8ae83c47-ce78-4b9a-922c-5ccdba5e5857"
+      "id": "z-150-b48c5e0e-ed19-4e94-af93-f7022f8d7a75"
     },
     {
       "question": "Using the dedicated listener for handling controls improves code readability.",
@@ -1701,7 +1701,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "4676b2c3-e3d9-411e-831a-f6ddce185006"
+      "id": "z-151-ed6e6b5d-0dcc-4811-aacf-9389c518ed24"
     },
     {
       "question": "The programmer, in all circumstances, should use only one distribution manager.",
@@ -1726,7 +1726,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "c89e2d4c-1af6-404b-9468-186db85013ab"
+      "id": "z-152-b78c927f-ec08-4748-a90b-12f2ad0b3be3"
     },
     {
       "question": "All the controls we refer to in the code should have the correct names given.",
@@ -1751,7 +1751,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "ca3934b9-73e2-4629-bb7a-27a029a043d9"
+      "id": "z-153-16998baa-ac54-4d47-94b2-d6c92d386388"
     },
     {
       "question": "Moving calculations to a separate thread can improve user interface performance.",
@@ -1776,7 +1776,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "8d23659b-aded-41a3-9cb1-138bc26e1a57"
+      "id": "z-154-847dc1a4-e02b-461d-98d2-108d64c30575"
     },
     {
       "question": "The SwingWorker class displays the default version of the progress bar.",
@@ -1801,7 +1801,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "79ec76ed-f3af-4f7d-bcc5-d7f0a3f1530f"
+      "id": "z-155-064bbf65-e3de-4721-b2ed-705c849d6f24"
     },
     {
       "question": "Using the SwingWorker class speeds up execution of calculations about 3 times.",
@@ -1826,7 +1826,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "811b64b0-9564-4b8d-af04-1d79056e7432"
+      "id": "z-156-1dde8573-1e9c-4865-9ff3-23be11ef51a1"
     },
     {
       "question": "The ProgressWorker class displays the progress bar.",
@@ -1851,7 +1851,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "32a51496-a1fa-43c5-8769-f862c742549a"
+      "id": "z-157-38568726-3622-4f4a-aed9-ae495ecf7cd9"
     },
     {
       "question": "The ProgressWorker class just like SwingWorker supports interrupting the operation.",
@@ -1876,7 +1876,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "a3765ceb-943b-4708-b8a2-169c4392c439"
+      "id": "z-158-111997cc-78b9-4f85-8f58-113100dd925b"
     },
     {
       "question": "Declarative GUI creation is an absolute novelty and no commercial company provides such capabilities.",
@@ -1901,7 +1901,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "7cde30ca-0540-49fc-831d-05ba9902b9a0"
+      "id": "z-159-f80d170b-0a8c-422c-b50d-221a35e55a40"
     },
     {
       "question": "Implementation of an object attribute must use only simple types",
@@ -1926,7 +1926,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "1efd0bcc-1c55-4d66-95c8-b63cb4c61758"
+      "id": "z-16-32a5180d-9bdd-4929-ba29-e191a6a0276d"
     },
     {
       "question": "Semantic declarations make it possible to work on a higher level of abstraction than a component.",
@@ -1951,7 +1951,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "8abf533a-0b30-4045-ae82-c8335e677c95"
+      "id": "z-160-f4f494f5-1645-402e-b30d-834436f651e6"
     },
     {
       "question": "Implementing a derived attribute may require calculating and storing its value.",
@@ -1976,7 +1976,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "0df31cef-0726-4e5f-b1c3-7d57cee3fbb4"
+      "id": "z-17-065fc020-8b98-4d22-a8a5-3079d514c542"
     },
     {
       "question": "Implementing a derived attribute always means creating both setters and getters methods.",
@@ -2001,7 +2001,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "12cdc3a3-c572-4b70-b4e5-32d318613a3d"
+      "id": "z-18-7b9b014f-6a26-44ac-9bf9-bd1956664478"
     },
     {
       "question": "In order to create an object method in Java, you must use the keyword object.",
@@ -2026,7 +2026,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "955bbe59-e903-40d4-a719-f0c49b387900"
+      "id": "z-19-b716d581-19e8-43f5-9420-25772ced80d1"
     },
     {
       "question": "The object method can only modify the attributes of the instance to which it was invoked.",
@@ -2051,7 +2051,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "235f2618-01ca-4fa7-b2c2-c49339746f62"
+      "id": "z-20-5fedc19f-b6e5-4133-a26c-74c3c495e3bf"
     },
     {
       "question": "To create a class method in Java, use the class keyword.",
@@ -2076,7 +2076,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "4aec1939-3124-4bc4-818a-34b86917bb04"
+      "id": "z-21-8b4e8809-611b-43b0-85b4-62fac5def066"
     },
     {
       "question": "Class method can be used even when there is no object of the class.",
@@ -2101,7 +2101,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "ee4964d5-2208-4288-a814-d7c431fc2f51"
+      "id": "z-22-37830e61-95ab-46c2-9384-da6c3314127d"
     },
     {
       "question": "One way to achieve extent persistence is to save it to a file.",
@@ -2126,7 +2126,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "fa6adb22-fbd9-4f96-bd77-424f8a388096"
+      "id": "z-23-03be5d2c-efd9-42fc-831a-34ee3477655e"
     },
     {
       "question": "Business applications do not need extent persistence.",
@@ -2151,7 +2151,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "bf6c226f-867a-4bce-bd00-bdf7be48f5bf"
+      "id": "z-24-6ed56951-b33b-49d9-9051-494c08c047cf"
     },
     {
       "question": "The method storing a single object should, as a parameter, accept the file name.",
@@ -2176,7 +2176,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "a88beded-3c90-4d55-b0ba-708ca268d226"
+      "id": "z-25-5f3b3f84-4cd1-4fac-a49b-0d70fb473ee5"
     },
     {
       "question": "The method storing all extents should accept the file name as a parameter.",
@@ -2201,7 +2201,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "35c9a371-1741-4cdd-b912-cd31df34cf6b"
+      "id": "z-26-c17b3729-c6d7-4cb2-86c2-de634aa5f581"
     },
     {
       "question": "The problem of extent persistence related to links is due to the poor performance of the Java platform.",
@@ -2226,7 +2226,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "e3c3a77c-05a1-49f9-adf6-6a13447946db"
+      "id": "z-27-0e495a16-c022-433f-955f-29cb2a0c2487"
     },
     {
       "question": "One of the ways to effectively maintain links between objects is to use references.",
@@ -2251,7 +2251,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "2299bb49-0705-4f99-af5c-08c46b3f0703"
+      "id": "z-28-13bb67d9-98a1-4cc7-9948-cbea768719a7"
     },
     {
       "question": "In order to improve performance, each extent should be serialized into a separate file.",
@@ -2276,7 +2276,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "5c23f8d4-863f-49cd-a598-285915d37722"
+      "id": "z-29-21a29c3a-2bf8-4b06-b4c6-2a9de4a9bb78"
     },
     {
       "question": "In order to use serialization, you just need to implement the Serializable interface.",
@@ -2301,7 +2301,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "3b3f000a-8903-4514-8dea-74745ab10f3d"
+      "id": "z-30-22db6916-4da3-4a66-9d47-9fe919eab158"
     },
     {
       "question": "Our own implementation of extent management is due to the fact that native Java mechanisms have poor performance.",
@@ -2326,7 +2326,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "85ba8a26-b17d-4d53-9d82-821f5377da74"
+      "id": "z-31-554136d8-b07f-4fbf-a386-fc67b54c4453"
     },
     {
       "question": "By inheriting from ObjectPlus, business classes will receive extent management.",
@@ -2351,7 +2351,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "e0da201a-21cb-493a-b569-e29a69d9c0b6"
+      "id": "z-32-78615a27-0ee3-4060-84f8-ab00430ef9b9"
     },
     {
       "question": "Many class extents can easily be stored in ArrayList.",
@@ -2376,7 +2376,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "13dd73ab-8702-4fc2-9c00-056c7b32bd7b"
+      "id": "z-33-38e52ef6-2cdd-4d9a-9f56-aee5c585e69b"
     },
     {
       "question": "Hashtable is a mapping container.",
@@ -2401,7 +2401,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "80042248-7bf3-4780-a0e8-1cf2b81ec24d"
+      "id": "z-34-54c08d55-3c70-4c51-b1b9-9a962aadce56"
     },
     {
       "question": "Hashtable is one of several possible classes that can store a lot of extents in Java.",
@@ -2426,7 +2426,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "bf8acece-8f9c-4272-bcca-0954c2b9ff8a"
+      "id": "z-35-2607d73c-63c0-4003-bb89-c08f279f7739"
     },
     {
       "question": "Association is an instance of a link.",
@@ -2451,7 +2451,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "84acb7e7-c0e4-4d98-a666-5998955b6d35"
+      "id": "z-36-a93906e4-5590-485e-ad01-6c52284882a1"
     },
     {
       "question": "Association describes a link.",
@@ -2476,7 +2476,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "dbe79207-b56b-4c6f-98b1-b674c81e19f2"
+      "id": "z-37-be85e94b-97c4-466b-8bc9-0041ca4f14b4"
     },
     {
       "question": "The way in which associations and links are implemented varies depending on the defined cardinalities.",
@@ -2501,7 +2501,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "b2b0483b-03e6-4f1f-a44b-7e8da7085c5c"
+      "id": "z-38-0d2dde54-7053-4aad-adb1-fe3c54a81cdf"
     },
     {
       "question": "Correctly defined cardinalities reduce the risk of making an error.",
@@ -2526,7 +2526,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "38bbee87-a7a5-4eec-be07-a354f5747878"
+      "id": "z-39-5350dab1-dbfc-4313-a640-8b723e0e76c9"
     },
     {
       "question": "Implementing an association with IDs provides better performance than using references.",
@@ -2551,7 +2551,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "cc9cf3e6-1ac6-4a6c-b9ac-87677887dcb8"
+      "id": "z-40-32d8b143-0f6f-4169-8a05-357a3aa0dcc3"
     },
     {
       "question": "Implementation of cardinalities * - * enforces use of two containers (eg. ArrayList).",
@@ -2576,7 +2576,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "521d2586-abcd-4ab1-b00b-93f85728e4c7"
+      "id": "z-41-fe538a07-3328-4ef6-8c81-9bc9620f5403"
     },
     {
       "question": "One way to implement an association attribute is to add it to one of the classes.",
@@ -2601,7 +2601,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "3d2625a5-fd7b-44f3-94f6-a8fa99fae94b"
+      "id": "z-42-8d12ca23-5efa-41ba-b3d9-4da3725120a5"
     },
     {
       "question": "Introducing an intermediary class makes it difficult to access information stored in a combined class.",
@@ -2626,7 +2626,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "5d3efb82-9f6f-4b46-a6b4-29b24c2ab49d"
+      "id": "z-43-3fd73ba4-7754-4e5e-bd62-187e326ff1f4"
     },
     {
       "question": "The most efficient way to implement a qualified association is to replace ArrayList with Vector.",
@@ -2651,7 +2651,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "e35372f7-9046-4c6a-a45c-e3ff29d1c9f8"
+      "id": "z-44-3506783e-440b-41c5-98a6-400436499bd1"
     },
     {
       "question": "One way to improve the performance of a qualified association is to replace ArrayList with Hashtable.",
@@ -2676,7 +2676,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "8d550594-d7a0-4bf9-8d2f-290b60e5ae52"
+      "id": "z-45-5f0a2101-7071-4775-bbba-d22ecd53c04f"
     },
     {
       "question": "Return links make it easy to meet your business requirements.",
@@ -2701,7 +2701,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "bba3f76a-6b1b-455e-b75f-08ad9c3c3051"
+      "id": "z-46-1bf8b111-f92a-43c7-88c4-b9a44c50fb98"
     },
     {
       "question": "Associations in the superclass are not inherited.",
@@ -2726,7 +2726,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "f1e34834-ff66-4033-8fff-d5fc522e04b4"
+      "id": "z-47-30cc4f31-b1cd-4dc1-8ae9-0ceb37154e38"
     },
     {
       "question": "The concrete class may contain both abstract and concrete methods.",
@@ -2751,7 +2751,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "bdb4d4e4-fb86-4255-ac57-a1ef14f71925"
+      "id": "z-48-8957a61c-c9fe-4afa-b1fb-42b1b6815279"
     },
     {
       "question": "In the abstract class there can be both abstract and concrete methods",
@@ -2776,7 +2776,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "02dba9dc-0564-4acb-b298-49f03383e543"
+      "id": "z-49-32c5f348-765b-4223-9cae-5b40494440c9"
     },
     {
       "question": "The method override may exist without the polymorphic method call.",
@@ -2801,7 +2801,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "a3f49de9-3c72-421a-9dfb-150498856126"
+      "id": "z-50-89014390-c13d-4688-a461-f2620ecbed4a"
     },
     {
       "question": "Polymorphic calls to methods can exist without overriding methods.",
@@ -2826,7 +2826,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "a0fcbe96-c885-488b-aa81-f89df54f3e89"
+      "id": "z-51-52974caa-474f-417a-ae3e-4623ede0ded5"
     },
     {
       "question": "In inheritance overalpping object can belong to several classes at once.",
@@ -2851,7 +2851,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "6d860381-8dd9-426e-8ac3-8a09d3283ce7"
+      "id": "z-52-ded31ed9-ca0f-4520-8e3f-8ad84fa2aa43"
     },
     {
       "question": "Thanks to the use of composition instead of inheritance we have easy access to inherited invariants.",
@@ -2876,7 +2876,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "8513b70e-c527-4b9e-a960-f37cb4a14dfe"
+      "id": "z-53-be65ec89-db48-4514-8f0f-2f10ecf89d00"
     },
     {
       "question": "When replacing the overlapping inheritance with a composition, we need to implement it with inner classes.",
@@ -2901,7 +2901,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "be0d7c32-73f9-43dd-801e-a9ce12a57d56"
+      "id": "z-54-500f2dfe-2fb9-4057-8d75-620abb973c14"
     },
     {
       "question": "In Java, interfaces can directly serve to define object attributes, firstName.",
@@ -2926,7 +2926,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "d1701d13-8cd1-4933-a0b5-f13a72e92f46"
+      "id": "z-55-b0ea165f-d11b-4e39-8e2f-1c63318a72b9"
     },
     {
       "question": "The operation propagation causes the business code of the method to be in a single place.",
@@ -2951,7 +2951,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "046eb1f8-c45c-419e-97d9-27be0af4b2ee"
+      "id": "z-56-277b3a7a-d276-4988-a2fc-adbc9a4685bc"
     },
     {
       "question": "Multi-aspect inheritance is the same as multi-inheritance.",
@@ -2976,7 +2976,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "b41a03ff-aafd-4d2a-8bd4-a6b5389b38d1"
+      "id": "z-57-1cfe2bde-b5b0-4098-a482-c6c71d684db8"
     },
     {
       "question": "Multi-aspect inheritance occurs in all popular programming languages.",
@@ -3001,7 +3001,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "39edb6bb-b104-41c7-9cfe-4cb07f3d67be"
+      "id": "z-58-7bb56995-44cf-48cc-89d1-d53428cb53f0"
     },
     {
       "question": "The simplest way to implement multi-aspect inheritance is to flatten the hierarchy.",
@@ -3026,7 +3026,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "df573ac5-8dc2-4b11-9a8f-12e464d13acd"
+      "id": "z-59-19c0f53f-34d1-4656-b029-cefde57dca2f"
     },
     {
       "question": "Implementing multi-aspect inheritance one of the aspect should be implemented using a \"real\" inheritance of a given programming language.",
@@ -3051,7 +3051,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "3883bbfd-471f-4762-b490-e9e6f1070c6e"
+      "id": "z-60-3456c27a-2715-450d-8940-6f2eef5d21ac"
     },
     {
       "question": "The simplest way to implement dynamic inheritance is to flatten the hierarchy.",
@@ -3076,7 +3076,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "55d6d086-7e34-498d-b4af-c2a7a093972e"
+      "id": "z-61-b017f415-cb42-455d-8339-ffa63aa9cdbf"
     },
     {
       "question": "Flattening of the hierarchy should be combined with the addition of the discriminator.",
@@ -3101,7 +3101,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "ce386ac6-866f-4b1b-9e6e-0b0d380ce9a5"
+      "id": "z-62-56b7c213-72dd-4479-b882-352ed9bf6e1a"
     },
     {
       "question": "Implementing a dynamic inheritance based on a composition should use the {or} constraint.",
@@ -3126,7 +3126,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "f9f280f5-c859-4557-99ab-7a25c0dde74e"
+      "id": "z-63-d18d3823-a2c0-48b0-81c1-dcf989eb8089"
     },
     {
       "question": "The most precise way to write constraints is the natural language.",
@@ -3151,7 +3151,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "de05dce8-6011-48ca-a540-6c512deb6b73"
+      "id": "z-64-51415045-3531-4784-82c7-aa213d107467"
     },
     {
       "question": "In practice, no constraints are used because everything can be expressed as a \"standard\" notation.",
@@ -3176,7 +3176,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "569f46a6-2278-499b-827d-94c7178c210c"
+      "id": "z-65-997d2069-343d-493e-898c-03dc16786c0a"
     },
     {
       "question": "The constraints in Java use the special constraint keyword.",
@@ -3201,7 +3201,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "aa5baaed-60bd-4adb-859b-10d01a17b1bb"
+      "id": "z-66-6017f9a6-4790-415b-b750-ec8ca65bf127"
     },
     {
       "question": "The basic principle used to implement constraints is to create public attributes and private methods.",
@@ -3226,7 +3226,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "2d96f74d-58be-4cd9-81a5-9f7827fa76c3"
+      "id": "z-67-0f4e9c5f-b81b-4c73-91af-b5cb6cc15fac"
     },
     {
       "question": "Declaring constants in constraints is a good practice.",
@@ -3251,7 +3251,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "c7323c23-c995-42dc-965a-f747bb2dd9dc"
+      "id": "z-68-7b3950b5-f6f4-4923-902a-01602850e920"
     },
     {
       "question": "Implementing {unique} with the class attribute Set will improve performance at the expense of memory.",
@@ -3276,7 +3276,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "246608e5-a341-45a0-bc81-e5339ea02b79"
+      "id": "z-69-bdcc8a11-73f0-414a-a8e7-d49cbb8c3b2f"
     },
     {
       "question": "Implementing {unique} using the extent reduces memory consumption at the expense of performance.",
@@ -3301,7 +3301,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "4e1d6b16-aaf4-4433-a946-a35993812e1f"
+      "id": "z-70-d117018a-e7f8-4494-b9e6-e3405661b347"
     },
     {
       "question": "The {subset} implementation requires a method to check for the existence of a given link.",
@@ -3326,7 +3326,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "a8ecd622-cc24-4db1-8208-9b3e8a191a05"
+      "id": "z-71-9f62f8d7-3afc-46b2-a956-7b5af3baf18e"
     },
     {
       "question": "The {subset} constraint holds the associations in a fixed order.",
@@ -3351,7 +3351,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "17d3ac55-1e4b-4704-a289-aee61295ff3d"
+      "id": "z-72-ec2d2eb5-32a2-4de2-b987-f2434cf2e57d"
     },
     {
       "question": "The {ordered} implementation requires a method to check for the existence of a given link.",
@@ -3376,7 +3376,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "d36f1db6-7d0c-4a7d-af95-a854dde5f054"
+      "id": "z-73-53868443-3e0d-4d83-8fc0-fe95dd1001b2"
     },
     {
       "question": "By using {ordered}, we can store duplicate links.",
@@ -3401,7 +3401,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "ee31fdc9-ecfc-459e-949f-3771c387787d"
+      "id": "z-74-6eb70c55-8238-43a3-ac3e-1edb9f640e10"
     },
     {
       "question": "Implementing {bag} requires a method that checks for the existence of a given link.",
@@ -3426,7 +3426,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "068e9fc4-cd98-44c3-8ec7-86fb6db9d012"
+      "id": "z-75-aa7168e7-1fb8-43d9-8ff0-37cbb0724334"
     },
     {
       "question": "By using {bag} constraint we can store duplicate links.",
@@ -3451,7 +3451,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "79426047-3045-4ed9-9610-255ffe367676"
+      "id": "z-76-0b0cc81b-24d5-4096-b102-d535876ca4ea"
     },
     {
       "question": "Implementing {xor} requires a method to check the existence of a given link.",
@@ -3476,7 +3476,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "da68aef7-f6fc-489c-b62a-bf1674b20374"
+      "id": "z-77-464b8834-11bf-404c-a7a6-d90fd2edb33d"
     },
     {
       "question": "By using {xor} we can store duplicate links.",
@@ -3501,7 +3501,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "aed087cf-8881-4960-b3fd-fbcf4363784b"
+      "id": "z-78-1b8d2b4b-f792-417d-af31-c30112af31ce"
     },
     {
       "question": "Relational model is popular because of the richness of its structure.",
@@ -3526,7 +3526,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "e2983a3e-b05e-485e-9bdb-ed043516e3b1"
+      "id": "z-79-6e0d9eee-b0ff-4d3f-ab40-4722be005ce7"
     },
     {
       "question": "Relational databases for sure will be replaced by object-oriented.",
@@ -3551,7 +3551,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "2f0d116a-a211-470a-93d7-5fee8971b7a7"
+      "id": "z-80-88d6bdf0-ce60-4699-98e7-8f1a400fca75"
     },
     {
       "question": "Relational model uses the concept of object identity.",
@@ -3576,7 +3576,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "36adebe4-7d4c-4993-bcfa-008b1d443718"
+      "id": "z-81-09e3bdb1-3c28-4ef8-bbb3-29631f8dbfe7"
     },
     {
       "question": "One of the basic relational model concepts is the primary key and the foreign key.",
@@ -3601,7 +3601,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "e51b2529-612c-44b9-82de-ada5e57866ed"
+      "id": "z-82-2e854529-7f6f-4a2e-998a-39ec9eb3f7ea"
     },
     {
       "question": "Indexes increase the speed of all operations in the database.",
@@ -3626,7 +3626,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "03f7a7df-3af6-4d06-83be-3ba8d98a0ae4"
+      "id": "z-83-631bdad7-e1c1-469a-84dc-392fca0fac01"
     },
     {
       "question": "The explosion of popularity of web applications has contributed to the popularization of databases.",
@@ -3651,7 +3651,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "b973dacf-47bf-450a-90dc-f9c09f60a24e"
+      "id": "z-84-a09fed5f-9ed5-4119-9aae-4fa9213c096f"
     },
     {
       "question": "The impedance mismatch is due to the poor performance of databases",
@@ -3676,7 +3676,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "3dbe035c-d8be-4044-86c1-8492a1fedc8e"
+      "id": "z-85-5b808a26-369a-4174-9fca-3887154e0a17"
     },
     {
       "question": "The impedance mismatch does not occur when you create a system entirely on the database side.",
@@ -3701,7 +3701,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "03ad1c42-ecd9-4c13-8353-e89f25a36c20"
+      "id": "z-86-dd8d3002-18f4-40ec-aa57-efac9f0cf42d"
     },
     {
       "question": "Classes are mapped to relational tables.",
@@ -3726,7 +3726,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "72600a4a-22b2-45b0-a427-d874e14109ec"
+      "id": "z-87-2c906331-fbbc-49df-ac02-ad3b0807a810"
     },
     {
       "question": "Simple attributes are directly mapped to columns in the table.",
@@ -3751,7 +3751,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "abd0a593-9fe6-4c50-9d8b-f04316953dd7"
+      "id": "z-88-d41d4993-6551-4be4-8727-69f20ec93890"
     },
     {
       "question": "The primary key is a combination of several columns of text type that provides better performance than a single-column numeric key.",
@@ -3776,7 +3776,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "d7c45e57-ae7e-40d8-b8a0-de56b56cde57"
+      "id": "z-89-80e14218-8c16-4a1f-8d9f-77a6232e035d"
     },
     {
       "question": "The primary key is used to identify a specific tuple.",
@@ -3801,7 +3801,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "b358e650-9a5b-4a0e-b2e8-cb696789546c"
+      "id": "z-90-d8126ccf-edfb-4b36-b97c-2187824184c9"
     },
     {
       "question": "Simple attributes are implemented in RM as columns in the table.",
@@ -3826,7 +3826,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "89e6d47c-96ee-4891-8f21-65bb70a27a9e"
+      "id": "z-91-7871bbfa-ed00-49f6-8e12-71587c934f98"
     },
     {
       "question": "Complex attributes can be implemented in RM as a separate table with a foreign key.",
@@ -3851,7 +3851,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "eb0d77f2-fd70-4eb9-8033-3f43276348f9"
+      "id": "z-92-d4cb3081-681f-4923-bafe-75b006aed3b7"
     },
     {
       "question": "Optional attributes must be implemented as a separate table.",
@@ -3876,7 +3876,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "0c29bdbe-c2a9-4cda-baaa-c5dd32a438c1"
+      "id": "z-93-e4a12158-8fd7-4d2c-98bd-5ad87d70b6f1"
     },
     {
       "question": "The manadatory attributes are implemented as a column allowing NULL value.",
@@ -3901,7 +3901,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "9481f2f3-8640-4ec1-ba87-7f50d5620f12"
+      "id": "z-94-daae8315-b20d-4945-8ad8-5749ff16bb9b"
     },
     {
       "question": "One way to implement a repetitive attribute is to store its value in a text field.",
@@ -3926,7 +3926,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "ff6142a3-1505-4a78-8dfb-9b4adae1e2ed"
+      "id": "z-95-abfc581d-2418-4e89-ae13-9bd9b355b3e8"
     },
     {
       "question": "One way to implement repetitive attributes is to store values ​​in a separate table.",
@@ -3951,7 +3951,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "85daa871-c5fd-4e2e-8ab9-00ccc6eb4643"
+      "id": "z-96-adde6aba-a0ba-48e4-910b-cbd7d0a5f927"
     },
     {
       "question": "The best way to implement a class attribute is to define it on the programming language side without worrying about data persistency.",
@@ -3976,7 +3976,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "ac1fe074-cb9a-4fdf-ae12-b11e22ab90e5"
+      "id": "z-97-491e2a5a-b32b-4689-a407-ebd119e31306"
     },
     {
       "question": "The class attribute can be written to a dedicated table.",
@@ -4001,7 +4001,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "33904f71-0557-4e19-9462-e5cd9b1c1777"
+      "id": "z-98-72a9fbd1-6644-4702-9a35-d8f06f087261"
     },
     {
       "question": "Derived attributes can be implemented as a special type of column in a regular table.",
@@ -4026,7 +4026,7 @@
       "contributors": [
         "Samuele Milan"
       ],
-      "id": "cb85a8bb-56de-4ee1-87ba-35cd432badbb"
+      "id": "z-99-2ed013c7-e330-4bbf-9600-c24ad088d6a4"
     }
   ]
 }

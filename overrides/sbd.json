@@ -4,6 +4,33 @@
   "updatedAt": 1707647448640,
   "data": [
     {
+      "question": "Wskazać poprawne zapytanie SQL (w Oracle) znajdujące stanowiska, na których średni zarobek wynosi 3000 lub więcej.",
+      "id": "2384",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp HAVING AVG (sal) >= 3000 GROUP BY job\n```",
+          "correct": true,
+          "isMarkdown": true
+        },
+        {
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp GROUP BY job WHERE AVG (sal) >= 3000\n```",
+          "correct": false,
+          "isMarkdown": true
+        },
+        {
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp WHERE AVG (sal) >= 3000 GROUP BY job\n```",
+          "correct": false,
+          "isMarkdown": true
+        },
+        {
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp GROUP BY job HAVING AVG (sal) >= 3000\n```",
+          "correct": true,
+          "isMarkdown": true
+        }
+      ]
+    },
+    {
       "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
       "id": "3473",
       "comments": [
@@ -86,34 +113,7 @@
           "isMarkdown": false
         }
       ],
-      "id": "e05250e8-7346-4e75-8a97-f77ea94c6738"
-    },
-    {
-      "question": "Wskazać poprawne zapytanie SQL (w Oracle) znajdujące stanowiska, na których średni zarobek wynosi 3000 lub więcej.",
-      "id": "2384",
-      "isMarkdown": false,
-      "answers": [
-        {
-          "answer": "```sql\nSELECT job, AVG(sal) FROM emp HAVING AVG (sal) >= 3000 GROUP BY job\n```",
-          "correct": true,
-          "isMarkdown": true
-        },
-        {
-          "answer": "```sql\nSELECT job, AVG(sal) FROM emp GROUP BY job WHERE AVG (sal) >= 3000\n```",
-          "correct": false,
-          "isMarkdown": true
-        },
-        {
-          "answer": "```sql\nSELECT job, AVG(sal) FROM emp WHERE AVG (sal) >= 3000 GROUP BY job\n```",
-          "correct": false,
-          "isMarkdown": true
-        },
-        {
-          "answer": "```sql\nSELECT job, AVG(sal) FROM emp GROUP BY job HAVING AVG (sal) >= 3000\n```",
-          "correct": true,
-          "isMarkdown": true
-        }
-      ]
+      "id": "z-00-7816ffd8-3dac-4670-b743-2b5d7f0d9129"
     },
     {
       "question": "Jaką wartość dla kolumny `Salary` zwróci to zapytanie?\n```sql\nSELECT ename, NVL(sal, 0) \"Salary\" FROM Emp WHERE Sal IS NULL ORDER BY ename;```",
@@ -140,7 +140,7 @@
           "isMarkdown": true
         }
       ],
-      "id": "b2220bf2-c6ae-4cee-a387-fd8226a42702"
+      "id": "z-01-7ba61be9-4ca2-4b50-b23e-b4d68ff6740a"
     },
     {
       "question": "Hurtownia danych jest:",
@@ -174,7 +174,7 @@
           "correct": true
         }
       ],
-      "id": "8699e5c5-b90a-4c01-a5f8-9d3a02987b6e"
+      "id": "z-02-318e5752-0f82-465f-948e-e08a88d4b8b0"
     },
     {
       "question": "Zróżnicowanie czasowe w definicji hurtowni danych oznacza, że",
@@ -196,7 +196,7 @@
           "correct": true
         }
       ],
-      "id": "8906966b-43ed-4613-ab5d-305190fc5c3f"
+      "id": "z-03-a8c843e7-27e0-47f6-a739-f36e78b76bd7"
     },
     {
       "question": "Nieulotność w definicji hurtowni danych oznacza, że",
@@ -218,7 +218,7 @@
           "correct": false
         }
       ],
-      "id": "ae3eb90b-21fa-4d43-9453-bb3a2b0f306e"
+      "id": "z-04-ac9025df-5603-43ac-b073-c63f3048fa02"
     }
   ]
 }
