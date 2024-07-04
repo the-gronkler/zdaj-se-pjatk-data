@@ -1,0 +1,29 @@
+{
+  "id": "2981",
+  "question": "CLR:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "Potrafi uruchomić kod napisany w MSIL",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Potrafi uruchomić kod napisany w IL",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Jest częścią platformy .NET",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Potrafi uruchomić kod napisany w języku maszynowym",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1720116254866,
+  "$schema": "../../../schemas/subject-patch.json"
+}
